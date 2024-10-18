@@ -56,6 +56,26 @@ private:
         return true;
     }
 
+    bool find(const Comparable &c, BinaryNode* n, int &depth) const {
+        if (n == nullptr) {
+            // Reached a dead end. Value not in tree.
+            return false;
+        }
+        if (c < n->value) {
+            // Value is less than current node. Go to node's left child.
+            depth++;
+            return find(c, n->leftChild, depth);
+        }
+        if (n->value < c) {
+            // Value is greater than current node. Go to node's right child.
+            depth++;
+            return find(c, n->rightChild, depth);
+        }
+        // If code reaches here, c == n->value. Node found!
+        return true;
+    }
+
+
     // Helper recursive function to add a value to the tree.
     bool add(const Comparable &c, BinaryNode* &n) {
         if (n == nullptr) {
@@ -98,7 +118,7 @@ private:
             // Value is greater than current node. Go to right child.
             remove(c, n->rightChild);
         }
-        // If code reaches here, we found the node. Now to remove it.
+            // If code reaches here, we found the node. Now to remove it.
         else if (n->leftChild != nullptr && n->rightChild != nullptr) {
             // The node we want to remove has two children
             // Find the largest value from the left subtree
@@ -135,6 +155,12 @@ public:
         // calls private helper function
         destroy(root);
     }
+    // Public find method that calls the helper and tracks depth
+    bool find(const Comparable &c, int &depth) const {
+        depth = 0; // Start depth at 0 (root level)
+        return find(c, root, depth);
+    }
+
 
     // Method to destroy tree
     void timber() {

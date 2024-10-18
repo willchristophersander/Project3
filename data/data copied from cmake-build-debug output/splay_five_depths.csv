@@ -1,0 +1,5001 @@
+Movie Title,Find Attempt,Splay Depth
+The Shawshank Redemption,1,14
+The Shawshank Redemption,2,0
+The Shawshank Redemption,3,0
+The Shawshank Redemption,4,0
+The Shawshank Redemption,5,0
+The Godfather,1,9
+The Godfather,2,0
+The Godfather,3,0
+The Godfather,4,0
+The Godfather,5,0
+The Dark Knight,1,12
+The Dark Knight,2,0
+The Dark Knight,3,0
+The Dark Knight,4,0
+The Dark Knight,5,0
+The Godfather: Part II,1,5
+The Godfather: Part II,2,0
+The Godfather: Part II,3,0
+The Godfather: Part II,4,0
+The Godfather: Part II,5,0
+12 Angry Men,1,13
+12 Angry Men,2,0
+12 Angry Men,3,0
+12 Angry Men,4,0
+12 Angry Men,5,0
+The Lord of the Rings: The Return of the King,1,13
+The Lord of the Rings: The Return of the King,2,0
+The Lord of the Rings: The Return of the King,3,0
+The Lord of the Rings: The Return of the King,4,0
+The Lord of the Rings: The Return of the King,5,0
+Pulp Fiction,1,18
+Pulp Fiction,2,0
+Pulp Fiction,3,0
+Pulp Fiction,4,0
+Pulp Fiction,5,0
+Schindler's List,1,10
+Schindler's List,2,0
+Schindler's List,3,0
+Schindler's List,4,0
+Schindler's List,5,0
+Inception,1,15
+Inception,2,0
+Inception,3,0
+Inception,4,0
+Inception,5,0
+Fight Club,1,10
+Fight Club,2,0
+Fight Club,3,0
+Fight Club,4,0
+Fight Club,5,0
+The Lord of the Rings: The Fellowship of the Ring,1,9
+The Lord of the Rings: The Fellowship of the Ring,2,0
+The Lord of the Rings: The Fellowship of the Ring,3,0
+The Lord of the Rings: The Fellowship of the Ring,4,0
+The Lord of the Rings: The Fellowship of the Ring,5,0
+Forrest Gump,1,13
+Forrest Gump,2,0
+Forrest Gump,3,0
+Forrest Gump,4,0
+Forrest Gump,5,0
+Il buono, il brutto, il cattiv,1,13
+Il buono, il brutto, il cattiv,2,0
+Il buono, il brutto, il cattiv,3,0
+Il buono, il brutto, il cattiv,4,0
+Il buono, il brutto, il cattiv,5,0
+The Lord of the Rings: The Two Towers,1,8
+The Lord of the Rings: The Two Towers,2,0
+The Lord of the Rings: The Two Towers,3,0
+The Lord of the Rings: The Two Towers,4,0
+The Lord of the Rings: The Two Towers,5,0
+The Matrix,1,10
+The Matrix,2,0
+The Matrix,3,0
+The Matrix,4,0
+The Matrix,5,0
+Goodfellas,1,19
+Goodfellas,2,0
+Goodfellas,3,0
+Goodfellas,4,0
+Goodfellas,5,0
+Star Wars: Episode V - The Empire Strikes Back,1,18
+Star Wars: Episode V - The Empire Strikes Back,2,0
+Star Wars: Episode V - The Empire Strikes Back,3,0
+Star Wars: Episode V - The Empire Strikes Back,4,0
+Star Wars: Episode V - The Empire Strikes Back,5,0
+One Flew Over the Cuckoo's Nest,1,13
+One Flew Over the Cuckoo's Nest,2,0
+One Flew Over the Cuckoo's Nest,3,0
+One Flew Over the Cuckoo's Nest,4,0
+One Flew Over the Cuckoo's Nest,5,0
+Hamilton,1,9
+Hamilton,2,0
+Hamilton,3,0
+Hamilton,4,0
+Hamilton,5,0
+Gisaengchung,1,6
+Gisaengchung,2,0
+Gisaengchung,3,0
+Gisaengchung,4,0
+Gisaengchung,5,0
+Soorarai Pottru,1,17
+Soorarai Pottru,2,0
+Soorarai Pottru,3,0
+Soorarai Pottru,4,0
+Soorarai Pottru,5,0
+Interstellar,1,12
+Interstellar,2,0
+Interstellar,3,0
+Interstellar,4,0
+Interstellar,5,0
+Cidade de Deus,1,15
+Cidade de Deus,2,0
+Cidade de Deus,3,0
+Cidade de Deus,4,0
+Cidade de Deus,5,0
+Sen to Chihiro no kamikakushi,1,7
+Sen to Chihiro no kamikakushi,2,0
+Sen to Chihiro no kamikakushi,3,0
+Sen to Chihiro no kamikakushi,4,0
+Sen to Chihiro no kamikakushi,5,0
+Saving Private Ryan,1,11
+Saving Private Ryan,2,0
+Saving Private Ryan,3,0
+Saving Private Ryan,4,0
+Saving Private Ryan,5,0
+The Green Mile,1,14
+The Green Mile,2,0
+The Green Mile,3,0
+The Green Mile,4,0
+The Green Mile,5,0
+La vita è bella,1,15
+La vita è bella,2,0
+La vita è bella,3,0
+La vita è bella,4,0
+La vita è bella,5,0
+Se7en,1,7
+Se7en,2,0
+Se7en,3,0
+Se7en,4,0
+Se7en,5,0
+The Silence of the Lambs,1,12
+The Silence of the Lambs,2,0
+The Silence of the Lambs,3,0
+The Silence of the Lambs,4,0
+The Silence of the Lambs,5,0
+Star Wars,1,10
+Star Wars,2,0
+Star Wars,3,0
+Star Wars,4,0
+Star Wars,5,0
+Seppuku,1,9
+Seppuku,2,0
+Seppuku,3,0
+Seppuku,4,0
+Seppuku,5,0
+Shichinin no samurai,1,12
+Shichinin no samurai,2,0
+Shichinin no samurai,3,0
+Shichinin no samurai,4,0
+Shichinin no samurai,5,0
+It's a Wonderful Life,1,15
+It's a Wonderful Life,2,0
+It's a Wonderful Life,3,0
+It's a Wonderful Life,4,0
+It's a Wonderful Life,5,0
+Joker,1,10
+Joker,2,0
+Joker,3,0
+Joker,4,0
+Joker,5,0
+Whiplash,1,12
+Whiplash,2,0
+Whiplash,3,0
+Whiplash,4,0
+Whiplash,5,0
+The Intouchables,1,14
+The Intouchables,2,0
+The Intouchables,3,0
+The Intouchables,4,0
+The Intouchables,5,0
+The Prestige,1,16
+The Prestige,2,0
+The Prestige,3,0
+The Prestige,4,0
+The Prestige,5,0
+The Departed,1,14
+The Departed,2,0
+The Departed,3,0
+The Departed,4,0
+The Departed,5,0
+The Pianist,1,9
+The Pianist,2,0
+The Pianist,3,0
+The Pianist,4,0
+The Pianist,5,0
+Gladiator,1,14
+Gladiator,2,0
+Gladiator,3,0
+Gladiator,4,0
+Gladiator,5,0
+American History X,1,14
+American History X,2,0
+American History X,3,0
+American History X,4,0
+American History X,5,0
+The Usual Suspects,1,15
+The Usual Suspects,2,0
+The Usual Suspects,3,0
+The Usual Suspects,4,0
+The Usual Suspects,5,0
+Léon,1,23
+Léon,2,0
+Léon,3,0
+Léon,4,0
+Léon,5,0
+The Lion King,1,16
+The Lion King,2,0
+The Lion King,3,0
+The Lion King,4,0
+The Lion King,5,0
+Terminator 2: Judgment Day,1,8
+Terminator 2: Judgment Day,2,0
+Terminator 2: Judgment Day,3,0
+Terminator 2: Judgment Day,4,0
+Terminator 2: Judgment Day,5,0
+Nuovo Cinema Paradiso,1,19
+Nuovo Cinema Paradiso,2,0
+Nuovo Cinema Paradiso,3,0
+Nuovo Cinema Paradiso,4,0
+Nuovo Cinema Paradiso,5,0
+Hotaru no haka,1,13
+Hotaru no haka,2,0
+Hotaru no haka,3,0
+Hotaru no haka,4,0
+Hotaru no haka,5,0
+Back to the Future,1,14
+Back to the Future,2,0
+Back to the Future,3,0
+Back to the Future,4,0
+Back to the Future,5,0
+Once Upon a Time in the West,1,12
+Once Upon a Time in the West,2,0
+Once Upon a Time in the West,3,0
+Once Upon a Time in the West,4,0
+Once Upon a Time in the West,5,0
+Psycho,1,8
+Psycho,2,0
+Psycho,3,0
+Psycho,4,0
+Psycho,5,0
+Casablanca,1,15
+Casablanca,2,0
+Casablanca,3,0
+Casablanca,4,0
+Casablanca,5,0
+Modern Times,1,15
+Modern Times,2,0
+Modern Times,3,0
+Modern Times,4,0
+Modern Times,5,0
+City Lights,1,10
+City Lights,2,0
+City Lights,3,0
+City Lights,4,0
+City Lights,5,0
+Capharnaüm,1,8
+Capharnaüm,2,0
+Capharnaüm,3,0
+Capharnaüm,4,0
+Capharnaüm,5,0
+Ayla: The Daughter of War,1,10
+Ayla: The Daughter of War,2,0
+Ayla: The Daughter of War,3,0
+Ayla: The Daughter of War,4,0
+Ayla: The Daughter of War,5,0
+Vikram Vedha,1,22
+Vikram Vedha,2,0
+Vikram Vedha,3,0
+Vikram Vedha,4,0
+Vikram Vedha,5,0
+Kimi no na wa.,1,22
+Kimi no na wa.,2,0
+Kimi no na wa.,3,0
+Kimi no na wa.,4,0
+Kimi no na wa.,5,0
+Dangal,1,17
+Dangal,2,0
+Dangal,3,0
+Dangal,4,0
+Dangal,5,0
+Spider-Man: Into the Spider-Verse,1,16
+Spider-Man: Into the Spider-Verse,2,0
+Spider-Man: Into the Spider-Verse,3,0
+Spider-Man: Into the Spider-Verse,4,0
+Spider-Man: Into the Spider-Verse,5,0
+Avengers: Endgame,1,10
+Avengers: Endgame,2,0
+Avengers: Endgame,3,0
+Avengers: Endgame,4,0
+Avengers: Endgame,5,0
+Avengers: Infinity War,1,5
+Avengers: Infinity War,2,0
+Avengers: Infinity War,3,0
+Avengers: Infinity War,4,0
+Avengers: Infinity War,5,0
+Coco,1,10
+Coco,2,0
+Coco,3,0
+Coco,4,0
+Coco,5,0
+Django Unchained,1,17
+Django Unchained,2,0
+Django Unchained,3,0
+Django Unchained,4,0
+Django Unchained,5,0
+The Dark Knight Rises,1,12
+The Dark Knight Rises,2,0
+The Dark Knight Rises,3,0
+The Dark Knight Rises,4,0
+The Dark Knight Rises,5,0
+3 Idiots,1,13
+3 Idiots,2,0
+3 Idiots,3,0
+3 Idiots,4,0
+3 Idiots,5,0
+Taare Zameen Par,1,11
+Taare Zameen Par,2,0
+Taare Zameen Par,3,0
+Taare Zameen Par,4,0
+Taare Zameen Par,5,0
+WALL·E,1,9
+WALL·E,2,0
+WALL·E,3,0
+WALL·E,4,0
+WALL·E,5,0
+The Lives of Others,1,12
+The Lives of Others,2,0
+The Lives of Others,3,0
+The Lives of Others,4,0
+The Lives of Others,5,0
+Oldeuboi,1,14
+Oldeuboi,2,0
+Oldeuboi,3,0
+Oldeuboi,4,0
+Oldeuboi,5,0
+Memento,1,10
+Memento,2,0
+Memento,3,0
+Memento,4,0
+Memento,5,0
+Mononoke-hime,1,8
+Mononoke-hime,2,0
+Mononoke-hime,3,0
+Mononoke-hime,4,0
+Mononoke-hime,5,0
+Once Upon a Time in America,1,9
+Once Upon a Time in America,2,0
+Once Upon a Time in America,3,0
+Once Upon a Time in America,4,0
+Once Upon a Time in America,5,0
+Raiders of the Lost Ark,1,10
+Raiders of the Lost Ark,2,0
+Raiders of the Lost Ark,3,0
+Raiders of the Lost Ark,4,0
+Raiders of the Lost Ark,5,0
+The Shining,1,13
+The Shining,2,0
+The Shining,3,0
+The Shining,4,0
+The Shining,5,0
+Apocalypse Now,1,16
+Apocalypse Now,2,0
+Apocalypse Now,3,0
+Apocalypse Now,4,0
+Apocalypse Now,5,0
+Alien,1,12
+Alien,2,0
+Alien,3,0
+Alien,4,0
+Alien,5,0
+Anand,1,8
+Anand,2,0
+Anand,3,0
+Anand,4,0
+Anand,5,0
+Tengoku to jigoku,1,11
+Tengoku to jigoku,2,0
+Tengoku to jigoku,3,0
+Tengoku to jigoku,4,0
+Tengoku to jigoku,5,0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1,21
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,2,0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,3,0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4,0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,5,0
+Witness for the Prosecution,1,12
+Witness for the Prosecution,2,0
+Witness for the Prosecution,3,0
+Witness for the Prosecution,4,0
+Witness for the Prosecution,5,0
+Paths of Glory,1,17
+Paths of Glory,2,0
+Paths of Glory,3,0
+Paths of Glory,4,0
+Paths of Glory,5,0
+Rear Window,1,11
+Rear Window,2,0
+Rear Window,3,0
+Rear Window,4,0
+Rear Window,5,0
+Sunset Blvd.,1,13
+Sunset Blvd.,2,0
+Sunset Blvd.,3,0
+Sunset Blvd.,4,0
+Sunset Blvd.,5,0
+The Great Dictator,1,15
+The Great Dictator,2,0
+The Great Dictator,3,0
+The Great Dictator,4,0
+The Great Dictator,5,0
+1917,1,13
+1917,2,0
+1917,3,0
+1917,4,0
+1917,5,0
+Tumbbad,1,16
+Tumbbad,2,0
+Tumbbad,3,0
+Tumbbad,4,0
+Tumbbad,5,0
+Andhadhun,1,11
+Andhadhun,2,0
+Andhadhun,3,0
+Andhadhun,4,0
+Andhadhun,5,0
+Drishyam,1,14
+Drishyam,2,0
+Drishyam,3,0
+Drishyam,4,0
+Drishyam,5,0
+Jagten,1,17
+Jagten,2,0
+Jagten,3,0
+Jagten,4,0
+Jagten,5,0
+Jodaeiye Nader az Simin,1,7
+Jodaeiye Nader az Simin,2,0
+Jodaeiye Nader az Simin,3,0
+Jodaeiye Nader az Simin,4,0
+Jodaeiye Nader az Simin,5,0
+Incendies,1,12
+Incendies,2,0
+Incendies,3,0
+Incendies,4,0
+Incendies,5,0
+Miracle in cell NO.7,1,13
+Miracle in cell NO.7,2,0
+Miracle in cell NO.7,3,0
+Miracle in cell NO.7,4,0
+Miracle in cell NO.7,5,0
+Babam ve Oglum,1,20
+Babam ve Oglum,2,0
+Babam ve Oglum,3,0
+Babam ve Oglum,4,0
+Babam ve Oglum,5,0
+Inglourious Basterds,1,11
+Inglourious Basterds,2,0
+Inglourious Basterds,3,0
+Inglourious Basterds,4,0
+Inglourious Basterds,5,0
+Eternal Sunshine of the Spotless Mind,1,10
+Eternal Sunshine of the Spotless Mind,2,0
+Eternal Sunshine of the Spotless Mind,3,0
+Eternal Sunshine of the Spotless Mind,4,0
+Eternal Sunshine of the Spotless Mind,5,0
+Amélie,1,8
+Amélie,2,0
+Amélie,3,0
+Amélie,4,0
+Amélie,5,0
+Snatch,1,20
+Snatch,2,0
+Snatch,3,0
+Snatch,4,0
+Snatch,5,0
+Requiem for a Dream,1,17
+Requiem for a Dream,2,0
+Requiem for a Dream,3,0
+Requiem for a Dream,4,0
+Requiem for a Dream,5,0
+American Beauty,1,11
+American Beauty,2,0
+American Beauty,3,0
+American Beauty,4,0
+American Beauty,5,0
+Good Will Hunting,1,16
+Good Will Hunting,2,0
+Good Will Hunting,3,0
+Good Will Hunting,4,0
+Good Will Hunting,5,0
+Bacheha-Ye aseman,1,10
+Bacheha-Ye aseman,2,0
+Bacheha-Ye aseman,3,0
+Bacheha-Ye aseman,4,0
+Bacheha-Ye aseman,5,0
+Toy Story,1,19
+Toy Story,2,0
+Toy Story,3,0
+Toy Story,4,0
+Toy Story,5,0
+Braveheart,1,17
+Braveheart,2,0
+Braveheart,3,0
+Braveheart,4,0
+Braveheart,5,0
+Reservoir Dogs,1,11
+Reservoir Dogs,2,0
+Reservoir Dogs,3,0
+Reservoir Dogs,4,0
+Reservoir Dogs,5,0
+Full Metal Jacket,1,11
+Full Metal Jacket,2,0
+Full Metal Jacket,3,0
+Full Metal Jacket,4,0
+Full Metal Jacket,5,0
+Idi i smotri,1,11
+Idi i smotri,2,0
+Idi i smotri,3,0
+Idi i smotri,4,0
+Idi i smotri,5,0
+Aliens,1,11
+Aliens,2,0
+Aliens,3,0
+Aliens,4,0
+Aliens,5,0
+Amadeus,1,8
+Amadeus,2,0
+Amadeus,3,0
+Amadeus,4,0
+Amadeus,5,0
+Scarface,1,12
+Scarface,2,0
+Scarface,3,0
+Scarface,4,0
+Scarface,5,0
+Star Wars: Episode VI - Return of the Jedi,1,8
+Star Wars: Episode VI - Return of the Jedi,2,0
+Star Wars: Episode VI - Return of the Jedi,3,0
+Star Wars: Episode VI - Return of the Jedi,4,0
+Star Wars: Episode VI - Return of the Jedi,5,0
+Das Boot,1,21
+Das Boot,2,0
+Das Boot,3,0
+Das Boot,4,0
+Das Boot,5,0
+Taxi Driver,1,7
+Taxi Driver,2,0
+Taxi Driver,3,0
+Taxi Driver,4,0
+Taxi Driver,5,0
+The Sting,1,10
+The Sting,2,0
+The Sting,3,0
+The Sting,4,0
+The Sting,5,0
+A Clockwork Orange,1,13
+A Clockwork Orange,2,0
+A Clockwork Orange,3,0
+A Clockwork Orange,4,0
+A Clockwork Orange,5,0
+2001: A Space Odyssey,1,4
+2001: A Space Odyssey,2,0
+2001: A Space Odyssey,3,0
+2001: A Space Odyssey,4,0
+2001: A Space Odyssey,5,0
+Per qualche dollaro in più,1,21
+Per qualche dollaro in più,2,0
+Per qualche dollaro in più,3,0
+Per qualche dollaro in più,4,0
+Per qualche dollaro in più,5,0
+Lawrence of Arabia,1,22
+Lawrence of Arabia,2,0
+Lawrence of Arabia,3,0
+Lawrence of Arabia,4,0
+Lawrence of Arabia,5,0
+The Apartment,1,17
+The Apartment,2,0
+The Apartment,3,0
+The Apartment,4,0
+The Apartment,5,0
+North by Northwest,1,17
+North by Northwest,2,0
+North by Northwest,3,0
+North by Northwest,4,0
+North by Northwest,5,0
+Vertigo,1,13
+Vertigo,2,0
+Vertigo,3,0
+Vertigo,4,0
+Vertigo,5,0
+Singin' in the Rain,1,15
+Singin' in the Rain,2,0
+Singin' in the Rain,3,0
+Singin' in the Rain,4,0
+Singin' in the Rain,5,0
+Ikiru,1,9
+Ikiru,2,0
+Ikiru,3,0
+Ikiru,4,0
+Ikiru,5,0
+Ladri di biciclette,1,11
+Ladri di biciclette,2,0
+Ladri di biciclette,3,0
+Ladri di biciclette,4,0
+Ladri di biciclette,5,0
+Double Indemnity,1,11
+Double Indemnity,2,0
+Double Indemnity,3,0
+Double Indemnity,4,0
+Double Indemnity,5,0
+Citizen Kane,1,11
+Citizen Kane,2,0
+Citizen Kane,3,0
+Citizen Kane,4,0
+Citizen Kane,5,0
+M - Eine Stadt sucht einen Mörder,1,12
+M - Eine Stadt sucht einen Mörder,2,0
+M - Eine Stadt sucht einen Mörder,3,0
+M - Eine Stadt sucht einen Mörder,4,0
+M - Eine Stadt sucht einen Mörder,5,0
+Metropolis,1,6
+Metropolis,2,0
+Metropolis,3,0
+Metropolis,4,0
+Metropolis,5,0
+The Kid,1,18
+The Kid,2,0
+The Kid,3,0
+The Kid,4,0
+The Kid,5,0
+Chhichhore,1,16
+Chhichhore,2,0
+Chhichhore,3,0
+Chhichhore,4,0
+Chhichhore,5,0
+Uri: The Surgical Strike,1,12
+Uri: The Surgical Strike,2,0
+Uri: The Surgical Strike,3,0
+Uri: The Surgical Strike,4,0
+Uri: The Surgical Strike,5,0
+K.G.F: Chapter 1,1,19
+K.G.F: Chapter 1,2,0
+K.G.F: Chapter 1,3,0
+K.G.F: Chapter 1,4,0
+K.G.F: Chapter 1,5,0
+Green Book,1,15
+Green Book,2,0
+Green Book,3,0
+Green Book,4,0
+Green Book,5,0
+Three Billboards Outside Ebbing, Missour,1,18
+Three Billboards Outside Ebbing, Missour,2,0
+Three Billboards Outside Ebbing, Missour,3,0
+Three Billboards Outside Ebbing, Missour,4,0
+Three Billboards Outside Ebbing, Missour,5,0
+Talvar,1,14
+Talvar,2,0
+Talvar,3,0
+Talvar,4,0
+Talvar,5,0
+Baahubali 2: The Conclusion,1,16
+Baahubali 2: The Conclusion,2,0
+Baahubali 2: The Conclusion,3,0
+Baahubali 2: The Conclusion,4,0
+Baahubali 2: The Conclusion,5,0
+Klaus,1,18
+Klaus,2,0
+Klaus,3,0
+Klaus,4,0
+Klaus,5,0
+Drishyam,1,8
+Drishyam,2,0
+Drishyam,3,0
+Drishyam,4,0
+Drishyam,5,0
+Queen,1,17
+Queen,2,0
+Queen,3,0
+Queen,4,0
+Queen,5,0
+Mandariinid,1,16
+Mandariinid,2,0
+Mandariinid,3,0
+Mandariinid,4,0
+Mandariinid,5,0
+Bhaag Milkha Bhaag,1,16
+Bhaag Milkha Bhaag,2,0
+Bhaag Milkha Bhaag,3,0
+Bhaag Milkha Bhaag,4,0
+Bhaag Milkha Bhaag,5,0
+Gangs of Wasseypur,1,15
+Gangs of Wasseypur,2,0
+Gangs of Wasseypur,3,0
+Gangs of Wasseypur,4,0
+Gangs of Wasseypur,5,0
+Udaan,1,11
+Udaan,2,0
+Udaan,3,0
+Udaan,4,0
+Udaan,5,0
+Paan Singh Tomar,1,16
+Paan Singh Tomar,2,0
+Paan Singh Tomar,3,0
+Paan Singh Tomar,4,0
+Paan Singh Tomar,5,0
+El secreto de sus ojos,1,10
+El secreto de sus ojos,2,0
+El secreto de sus ojos,3,0
+El secreto de sus ojos,4,0
+El secreto de sus ojos,5,0
+Warrior,1,14
+Warrior,2,0
+Warrior,3,0
+Warrior,4,0
+Warrior,5,0
+Shutter Island,1,14
+Shutter Island,2,0
+Shutter Island,3,0
+Shutter Island,4,0
+Shutter Island,5,0
+Up,1,8
+Up,2,0
+Up,3,0
+Up,4,0
+Up,5,0
+The Wolf of Wall Street,1,11
+The Wolf of Wall Street,2,0
+The Wolf of Wall Street,3,0
+The Wolf of Wall Street,4,0
+The Wolf of Wall Street,5,0
+Chak De! India,1,14
+Chak De! India,2,0
+Chak De! India,3,0
+Chak De! India,4,0
+Chak De! India,5,0
+There Will Be Blood,1,8
+There Will Be Blood,2,0
+There Will Be Blood,3,0
+There Will Be Blood,4,0
+There Will Be Blood,5,0
+Pan's Labyrinth,1,13
+Pan's Labyrinth,2,0
+Pan's Labyrinth,3,0
+Pan's Labyrinth,4,0
+Pan's Labyrinth,5,0
+Toy Story 3,1,12
+Toy Story 3,2,0
+Toy Story 3,3,0
+Toy Story 3,4,0
+Toy Story 3,5,0
+V for Vendetta,1,6
+V for Vendetta,2,0
+V for Vendetta,3,0
+V for Vendetta,4,0
+V for Vendetta,5,0
+Rang De Basanti,1,16
+Rang De Basanti,2,0
+Rang De Basanti,3,0
+Rang De Basanti,4,0
+Rang De Basanti,5,0
+Black,1,11
+Black,2,0
+Black,3,0
+Black,4,0
+Black,5,0
+Batman Begins,1,7
+Batman Begins,2,0
+Batman Begins,3,0
+Batman Begins,4,0
+Batman Begins,5,0
+Swades: We, the Peopl,1,13
+Swades: We, the Peopl,2,0
+Swades: We, the Peopl,3,0
+Swades: We, the Peopl,4,0
+Swades: We, the Peopl,5,0
+Der Untergang,1,18
+Der Untergang,2,0
+Der Untergang,3,0
+Der Untergang,4,0
+Der Untergang,5,0
+Hauru no ugoku shiro,1,21
+Hauru no ugoku shiro,2,0
+Hauru no ugoku shiro,3,0
+Hauru no ugoku shiro,4,0
+Hauru no ugoku shiro,5,0
+A Beautiful Mind,1,12
+A Beautiful Mind,2,0
+A Beautiful Mind,3,0
+A Beautiful Mind,4,0
+A Beautiful Mind,5,0
+Hera Pheri,1,14
+Hera Pheri,2,0
+Hera Pheri,3,0
+Hera Pheri,4,0
+Hera Pheri,5,0
+Lock, Stock and Two Smoking Barrel,1,16
+Lock, Stock and Two Smoking Barrel,2,0
+Lock, Stock and Two Smoking Barrel,3,0
+Lock, Stock and Two Smoking Barrel,4,0
+Lock, Stock and Two Smoking Barrel,5,0
+L.A. Confidential,1,13
+L.A. Confidential,2,0
+L.A. Confidential,3,0
+L.A. Confidential,4,0
+L.A. Confidential,5,0
+Eskiya,1,9
+Eskiya,2,0
+Eskiya,3,0
+Eskiya,4,0
+Eskiya,5,0
+Heat,1,5
+Heat,2,0
+Heat,3,0
+Heat,4,0
+Heat,5,0
+Casino,1,13
+Casino,2,0
+Casino,3,0
+Casino,4,0
+Casino,5,0
+Andaz Apna Apna,1,10
+Andaz Apna Apna,2,0
+Andaz Apna Apna,3,0
+Andaz Apna Apna,4,0
+Andaz Apna Apna,5,0
+Unforgiven,1,16
+Unforgiven,2,0
+Unforgiven,3,0
+Unforgiven,4,0
+Unforgiven,5,0
+Indiana Jones and the Last Crusade,1,14
+Indiana Jones and the Last Crusade,2,0
+Indiana Jones and the Last Crusade,3,0
+Indiana Jones and the Last Crusade,4,0
+Indiana Jones and the Last Crusade,5,0
+Dom za vesanje,1,13
+Dom za vesanje,2,0
+Dom za vesanje,3,0
+Dom za vesanje,4,0
+Dom za vesanje,5,0
+Tonari no Totoro,1,11
+Tonari no Totoro,2,0
+Tonari no Totoro,3,0
+Tonari no Totoro,4,0
+Tonari no Totoro,5,0
+Die Hard,1,7
+Die Hard,2,0
+Die Hard,3,0
+Die Hard,4,0
+Die Hard,5,0
+Ran,1,11
+Ran,2,0
+Ran,3,0
+Ran,4,0
+Ran,5,0
+Raging Bull,1,9
+Raging Bull,2,0
+Raging Bull,3,0
+Raging Bull,4,0
+Raging Bull,5,0
+Stalker,1,20
+Stalker,2,0
+Stalker,3,0
+Stalker,4,0
+Stalker,5,0
+Höstsonaten,1,15
+Höstsonaten,2,0
+Höstsonaten,3,0
+Höstsonaten,4,0
+Höstsonaten,5,0
+The Message,1,17
+The Message,2,0
+The Message,3,0
+The Message,4,0
+The Message,5,0
+Sholay,1,13
+Sholay,2,0
+Sholay,3,0
+Sholay,4,0
+Sholay,5,0
+Monty Python and the Holy Grail,1,18
+Monty Python and the Holy Grail,2,0
+Monty Python and the Holy Grail,3,0
+Monty Python and the Holy Grail,4,0
+Monty Python and the Holy Grail,5,0
+The Great Escape,1,10
+The Great Escape,2,0
+The Great Escape,3,0
+The Great Escape,4,0
+The Great Escape,5,0
+To Kill a Mockingbird,1,10
+To Kill a Mockingbird,2,0
+To Kill a Mockingbird,3,0
+To Kill a Mockingbird,4,0
+To Kill a Mockingbird,5,0
+Yôjinbô,1,13
+Yôjinbô,2,0
+Yôjinbô,3,0
+Yôjinbô,4,0
+Yôjinbô,5,0
+Judgment at Nuremberg,1,17
+Judgment at Nuremberg,2,0
+Judgment at Nuremberg,3,0
+Judgment at Nuremberg,4,0
+Judgment at Nuremberg,5,0
+Some Like It Hot,1,12
+Some Like It Hot,2,0
+Some Like It Hot,3,0
+Some Like It Hot,4,0
+Some Like It Hot,5,0
+Smultronstället,1,7
+Smultronstället,2,0
+Smultronstället,3,0
+Smultronstället,4,0
+Smultronstället,5,0
+Det sjunde inseglet,1,10
+Det sjunde inseglet,2,0
+Det sjunde inseglet,3,0
+Det sjunde inseglet,4,0
+Det sjunde inseglet,5,0
+Du rififi chez les hommes,1,12
+Du rififi chez les hommes,2,0
+Du rififi chez les hommes,3,0
+Du rififi chez les hommes,4,0
+Du rififi chez les hommes,5,0
+Dial M for Murder,1,6
+Dial M for Murder,2,0
+Dial M for Murder,3,0
+Dial M for Murder,4,0
+Dial M for Murder,5,0
+Tôkyô monogatari,1,14
+Tôkyô monogatari,2,0
+Tôkyô monogatari,3,0
+Tôkyô monogatari,4,0
+Tôkyô monogatari,5,0
+Rashômon,1,13
+Rashômon,2,0
+Rashômon,3,0
+Rashômon,4,0
+Rashômon,5,0
+All About Eve,1,13
+All About Eve,2,0
+All About Eve,3,0
+All About Eve,4,0
+All About Eve,5,0
+The Treasure of the Sierra Madre,1,16
+The Treasure of the Sierra Madre,2,0
+The Treasure of the Sierra Madre,3,0
+The Treasure of the Sierra Madre,4,0
+The Treasure of the Sierra Madre,5,0
+To Be or Not to Be,1,7
+To Be or Not to Be,2,0
+To Be or Not to Be,3,0
+To Be or Not to Be,4,0
+To Be or Not to Be,5,0
+The Gold Rush,1,17
+The Gold Rush,2,0
+The Gold Rush,3,0
+The Gold Rush,4,0
+The Gold Rush,5,0
+Sherlock Jr.,1,14
+Sherlock Jr.,2,0
+Sherlock Jr.,3,0
+Sherlock Jr.,4,0
+Sherlock Jr.,5,0
+Portrait de la jeune fille en feu,1,20
+Portrait de la jeune fille en feu,2,0
+Portrait de la jeune fille en feu,3,0
+Portrait de la jeune fille en feu,4,0
+Portrait de la jeune fille en feu,5,0
+Pink,1,10
+Pink,2,0
+Pink,3,0
+Pink,4,0
+Pink,5,0
+Koe no katachi,1,13
+Koe no katachi,2,0
+Koe no katachi,3,0
+Koe no katachi,4,0
+Koe no katachi,5,0
+Contratiempo,1,15
+Contratiempo,2,0
+Contratiempo,3,0
+Contratiempo,4,0
+Contratiempo,5,0
+Ah-ga-ssi,1,12
+Ah-ga-ssi,2,0
+Ah-ga-ssi,3,0
+Ah-ga-ssi,4,0
+Ah-ga-ssi,5,0
+Mommy,1,13
+Mommy,2,0
+Mommy,3,0
+Mommy,4,0
+Mommy,5,0
+Haider,1,19
+Haider,2,0
+Haider,3,0
+Haider,4,0
+Haider,5,0
+Logan,1,8
+Logan,2,0
+Logan,3,0
+Logan,4,0
+Logan,5,0
+Room,1,19
+Room,2,0
+Room,3,0
+Room,4,0
+Room,5,0
+Relatos salvajes,1,11
+Relatos salvajes,2,0
+Relatos salvajes,3,0
+Relatos salvajes,4,0
+Relatos salvajes,5,0
+Soul,1,11
+Soul,2,0
+Soul,3,0
+Soul,4,0
+Soul,5,0
+Kis Uykusu,1,13
+Kis Uykusu,2,0
+Kis Uykusu,3,0
+Kis Uykusu,4,0
+Kis Uykusu,5,0
+PK,1,14
+PK,2,0
+PK,3,0
+PK,4,0
+PK,5,0
+OMG: Oh My God!,1,11
+OMG: Oh My God!,2,0
+OMG: Oh My God!,3,0
+OMG: Oh My God!,4,0
+OMG: Oh My God!,5,0
+The Grand Budapest Hotel,1,12
+The Grand Budapest Hotel,2,0
+The Grand Budapest Hotel,3,0
+The Grand Budapest Hotel,4,0
+The Grand Budapest Hotel,5,0
+Gone Girl,1,18
+Gone Girl,2,0
+Gone Girl,3,0
+Gone Girl,4,0
+Gone Girl,5,0
+Ôkami kodomo no Ame to Yuki,1,13
+Ôkami kodomo no Ame to Yuki,2,0
+Ôkami kodomo no Ame to Yuki,3,0
+Ôkami kodomo no Ame to Yuki,4,0
+Ôkami kodomo no Ame to Yuki,5,0
+Hacksaw Ridge,1,9
+Hacksaw Ridge,2,0
+Hacksaw Ridge,3,0
+Hacksaw Ridge,4,0
+Hacksaw Ridge,5,0
+Inside Out,1,15
+Inside Out,2,0
+Inside Out,3,0
+Inside Out,4,0
+Inside Out,5,0
+Barfi!,1,17
+Barfi!,2,0
+Barfi!,3,0
+Barfi!,4,0
+Barfi!,5,0
+12 Years a Slave,1,7
+12 Years a Slave,2,0
+12 Years a Slave,3,0
+12 Years a Slave,4,0
+12 Years a Slave,5,0
+Rush,1,15
+Rush,2,0
+Rush,3,0
+Rush,4,0
+Rush,5,0
+Ford v Ferrari,1,17
+Ford v Ferrari,2,0
+Ford v Ferrari,3,0
+Ford v Ferrari,4,0
+Ford v Ferrari,5,0
+Spotlight,1,10
+Spotlight,2,0
+Spotlight,3,0
+Spotlight,4,0
+Spotlight,5,0
+Song of the Sea,1,7
+Song of the Sea,2,0
+Song of the Sea,3,0
+Song of the Sea,4,0
+Song of the Sea,5,0
+Kahaani,1,15
+Kahaani,2,0
+Kahaani,3,0
+Kahaani,4,0
+Kahaani,5,0
+Zindagi Na Milegi Dobara,1,12
+Zindagi Na Milegi Dobara,2,0
+Zindagi Na Milegi Dobara,3,0
+Zindagi Na Milegi Dobara,4,0
+Zindagi Na Milegi Dobara,5,0
+Prisoners,1,16
+Prisoners,2,0
+Prisoners,3,0
+Prisoners,4,0
+Prisoners,5,0
+Mad Max: Fury Road,1,16
+Mad Max: Fury Road,2,0
+Mad Max: Fury Road,3,0
+Mad Max: Fury Road,4,0
+Mad Max: Fury Road,5,0
+A Wednesday,1,15
+A Wednesday,2,0
+A Wednesday,3,0
+A Wednesday,4,0
+A Wednesday,5,0
+Gran Torino,1,11
+Gran Torino,2,0
+Gran Torino,3,0
+Gran Torino,4,0
+Gran Torino,5,0
+Harry Potter and the Deathly Hallows: Part 2,1,15
+Harry Potter and the Deathly Hallows: Part 2,2,0
+Harry Potter and the Deathly Hallows: Part 2,3,0
+Harry Potter and the Deathly Hallows: Part 2,4,0
+Harry Potter and the Deathly Hallows: Part 2,5,0
+Okuribito,1,9
+Okuribito,2,0
+Okuribito,3,0
+Okuribito,4,0
+Okuribito,5,0
+Hachi: A Dog's Tale,1,6
+Hachi: A Dog's Tale,2,0
+Hachi: A Dog's Tale,3,0
+Hachi: A Dog's Tale,4,0
+Hachi: A Dog's Tale,5,0
+Mary and Max,1,11
+Mary and Max,2,0
+Mary and Max,3,0
+Mary and Max,4,0
+Mary and Max,5,0
+How to Train Your Dragon,1,12
+How to Train Your Dragon,2,0
+How to Train Your Dragon,3,0
+How to Train Your Dragon,4,0
+How to Train Your Dragon,5,0
+Into the Wild,1,12
+Into the Wild,2,0
+Into the Wild,3,0
+Into the Wild,4,0
+Into the Wild,5,0
+No Country for Old Men,1,12
+No Country for Old Men,2,0
+No Country for Old Men,3,0
+No Country for Old Men,4,0
+No Country for Old Men,5,0
+Lage Raho Munna Bhai,1,14
+Lage Raho Munna Bhai,2,0
+Lage Raho Munna Bhai,3,0
+Lage Raho Munna Bhai,4,0
+Lage Raho Munna Bhai,5,0
+Million Dollar Baby,1,11
+Million Dollar Baby,2,0
+Million Dollar Baby,3,0
+Million Dollar Baby,4,0
+Million Dollar Baby,5,0
+Hotel Rwanda,1,8
+Hotel Rwanda,2,0
+Hotel Rwanda,3,0
+Hotel Rwanda,4,0
+Hotel Rwanda,5,0
+Taegukgi hwinalrimyeo,1,18
+Taegukgi hwinalrimyeo,2,0
+Taegukgi hwinalrimyeo,3,0
+Taegukgi hwinalrimyeo,4,0
+Taegukgi hwinalrimyeo,5,0
+Before Sunset,1,20
+Before Sunset,2,0
+Before Sunset,3,0
+Before Sunset,4,0
+Before Sunset,5,0
+Munna Bhai M.B.B.S.,1,11
+Munna Bhai M.B.B.S.,2,0
+Munna Bhai M.B.B.S.,3,0
+Munna Bhai M.B.B.S.,4,0
+Munna Bhai M.B.B.S.,5,0
+Salinui chueok,1,13
+Salinui chueok,2,0
+Salinui chueok,3,0
+Salinui chueok,4,0
+Salinui chueok,5,0
+Dil Chahta Hai,1,19
+Dil Chahta Hai,2,0
+Dil Chahta Hai,3,0
+Dil Chahta Hai,4,0
+Dil Chahta Hai,5,0
+Kill Bill: Vol. 1,1,15
+Kill Bill: Vol. 1,2,0
+Kill Bill: Vol. 1,3,0
+Kill Bill: Vol. 1,4,0
+Kill Bill: Vol. 1,5,0
+Finding Nemo,1,8
+Finding Nemo,2,0
+Finding Nemo,3,0
+Finding Nemo,4,0
+Finding Nemo,5,0
+Catch Me If You Can,1,11
+Catch Me If You Can,2,0
+Catch Me If You Can,3,0
+Catch Me If You Can,4,0
+Catch Me If You Can,5,0
+Amores perros,1,13
+Amores perros,2,0
+Amores perros,3,0
+Amores perros,4,0
+Amores perros,5,0
+Monsters, Inc,1,11
+Monsters, Inc,2,0
+Monsters, Inc,3,0
+Monsters, Inc,4,0
+Monsters, Inc,5,0
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi n,1,12
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi n,2,0
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi n,3,0
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi n,4,0
+Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi n,5,0
+Lagaan: Once Upon a Time in India,1,12
+Lagaan: Once Upon a Time in India,2,0
+Lagaan: Once Upon a Time in India,3,0
+Lagaan: Once Upon a Time in India,4,0
+Lagaan: Once Upon a Time in India,5,0
+The Sixth Sense,1,18
+The Sixth Sense,2,0
+The Sixth Sense,3,0
+The Sixth Sense,4,0
+The Sixth Sense,5,0
+La leggenda del pianista sull'oceano,1,15
+La leggenda del pianista sull'oceano,2,0
+La leggenda del pianista sull'oceano,3,0
+La leggenda del pianista sull'oceano,4,0
+La leggenda del pianista sull'oceano,5,0
+The Truman Show,1,12
+The Truman Show,2,0
+The Truman Show,3,0
+The Truman Show,4,0
+The Truman Show,5,0
+Crna macka, beli maco,1,18
+Crna macka, beli maco,2,0
+Crna macka, beli maco,3,0
+Crna macka, beli maco,4,0
+Crna macka, beli maco,5,0
+The Big Lebowski,1,18
+The Big Lebowski,2,0
+The Big Lebowski,3,0
+The Big Lebowski,4,0
+The Big Lebowski,5,0
+Fa yeung nin wah,1,10
+Fa yeung nin wah,2,0
+Fa yeung nin wah,3,0
+Fa yeung nin wah,4,0
+Fa yeung nin wah,5,0
+Trainspotting,1,13
+Trainspotting,2,0
+Trainspotting,3,0
+Trainspotting,4,0
+Trainspotting,5,0
+Fargo,1,10
+Fargo,2,0
+Fargo,3,0
+Fargo,4,0
+Fargo,5,0
+Underground,1,7
+Underground,2,0
+Underground,3,0
+Underground,4,0
+Underground,5,0
+La haine,1,12
+La haine,2,0
+La haine,3,0
+La haine,4,0
+La haine,5,0
+Dilwale Dulhania Le Jayenge,1,10
+Dilwale Dulhania Le Jayenge,2,0
+Dilwale Dulhania Le Jayenge,3,0
+Dilwale Dulhania Le Jayenge,4,0
+Dilwale Dulhania Le Jayenge,5,0
+Before Sunrise,1,9
+Before Sunrise,2,0
+Before Sunrise,3,0
+Before Sunrise,4,0
+Before Sunrise,5,0
+Trois couleurs: Rouge,1,11
+Trois couleurs: Rouge,2,0
+Trois couleurs: Rouge,3,0
+Trois couleurs: Rouge,4,0
+Trois couleurs: Rouge,5,0
+Chung Hing sam lam,1,13
+Chung Hing sam lam,2,0
+Chung Hing sam lam,3,0
+Chung Hing sam lam,4,0
+Chung Hing sam lam,5,0
+Jurassic Park,1,16
+Jurassic Park,2,0
+Jurassic Park,3,0
+Jurassic Park,4,0
+Jurassic Park,5,0
+In the Name of the Father,1,14
+In the Name of the Father,2,0
+In the Name of the Father,3,0
+In the Name of the Father,4,0
+In the Name of the Father,5,0
+Ba wang bie ji,1,11
+Ba wang bie ji,2,0
+Ba wang bie ji,3,0
+Ba wang bie ji,4,0
+Ba wang bie ji,5,0
+Dà hóng denglong gaogao guà,1,16
+Dà hóng denglong gaogao guà,2,0
+Dà hóng denglong gaogao guà,3,0
+Dà hóng denglong gaogao guà,4,0
+Dà hóng denglong gaogao guà,5,0
+Dead Poets Society,1,17
+Dead Poets Society,2,0
+Dead Poets Society,3,0
+Dead Poets Society,4,0
+Dead Poets Society,5,0
+Stand by Me,1,22
+Stand by Me,2,0
+Stand by Me,3,0
+Stand by Me,4,0
+Stand by Me,5,0
+Platoon,1,15
+Platoon,2,0
+Platoon,3,0
+Platoon,4,0
+Platoon,5,0
+Paris, Texa,1,9
+Paris, Texa,2,0
+Paris, Texa,3,0
+Paris, Texa,4,0
+Paris, Texa,5,0
+Kaze no tani no Naushika,1,10
+Kaze no tani no Naushika,2,0
+Kaze no tani no Naushika,3,0
+Kaze no tani no Naushika,4,0
+Kaze no tani no Naushika,5,0
+The Thing,1,12
+The Thing,2,0
+The Thing,3,0
+The Thing,4,0
+The Thing,5,0
+Pink Floyd: The Wall,1,8
+Pink Floyd: The Wall,2,0
+Pink Floyd: The Wall,3,0
+Pink Floyd: The Wall,4,0
+Pink Floyd: The Wall,5,0
+Fitzcarraldo,1,14
+Fitzcarraldo,2,0
+Fitzcarraldo,3,0
+Fitzcarraldo,4,0
+Fitzcarraldo,5,0
+Fany och Alexander,1,9
+Fany och Alexander,2,0
+Fany och Alexander,3,0
+Fany och Alexander,4,0
+Fany och Alexander,5,0
+Blade Runner,1,14
+Blade Runner,2,0
+Blade Runner,3,0
+Blade Runner,4,0
+Blade Runner,5,0
+The Elephant Man,1,23
+The Elephant Man,2,0
+The Elephant Man,3,0
+The Elephant Man,4,0
+The Elephant Man,5,0
+Life of Brian,1,22
+Life of Brian,2,0
+Life of Brian,3,0
+Life of Brian,4,0
+Life of Brian,5,0
+The Deer Hunter,1,10
+The Deer Hunter,2,0
+The Deer Hunter,3,0
+The Deer Hunter,4,0
+The Deer Hunter,5,0
+Rocky,1,17
+Rocky,2,0
+Rocky,3,0
+Rocky,4,0
+Rocky,5,0
+Network,1,10
+Network,2,0
+Network,3,0
+Network,4,0
+Network,5,0
+Barry Lyndon,1,9
+Barry Lyndon,2,0
+Barry Lyndon,3,0
+Barry Lyndon,4,0
+Barry Lyndon,5,0
+Zerkalo,1,11
+Zerkalo,2,0
+Zerkalo,3,0
+Zerkalo,4,0
+Zerkalo,5,0
+Chinatown,1,15
+Chinatown,2,0
+Chinatown,3,0
+Chinatown,4,0
+Chinatown,5,0
+Paper Moon,1,9
+Paper Moon,2,0
+Paper Moon,3,0
+Paper Moon,4,0
+Paper Moon,5,0
+Viskningar och rop,1,14
+Viskningar och rop,2,0
+Viskningar och rop,3,0
+Viskningar och rop,4,0
+Viskningar och rop,5,0
+Solaris,1,13
+Solaris,2,0
+Solaris,3,0
+Solaris,4,0
+Solaris,5,0
+Le samouraï,1,24
+Le samouraï,2,0
+Le samouraï,3,0
+Le samouraï,4,0
+Le samouraï,5,0
+Cool Hand Luke,1,13
+Cool Hand Luke,2,0
+Cool Hand Luke,3,0
+Cool Hand Luke,4,0
+Cool Hand Luke,5,0
+Persona,1,12
+Persona,2,0
+Persona,3,0
+Persona,4,0
+Persona,5,0
+Andrei Rublev,1,12
+Andrei Rublev,2,0
+Andrei Rublev,3,0
+Andrei Rublev,4,0
+Andrei Rublev,5,0
+La battaglia di Algeri,1,12
+La battaglia di Algeri,2,0
+La battaglia di Algeri,3,0
+La battaglia di Algeri,4,0
+La battaglia di Algeri,5,0
+El ángel exterminador,1,12
+El ángel exterminador,2,0
+El ángel exterminador,3,0
+El ángel exterminador,4,0
+El ángel exterminador,5,0
+What Ever Happened to Baby Jane?,1,17
+What Ever Happened to Baby Jane?,2,0
+What Ever Happened to Baby Jane?,3,0
+What Ever Happened to Baby Jane?,4,0
+What Ever Happened to Baby Jane?,5,0
+Sanjuro,1,11
+Sanjuro,2,0
+Sanjuro,3,0
+Sanjuro,4,0
+Sanjuro,5,0
+The Man Who Shot Liberty Valance,1,23
+The Man Who Shot Liberty Valance,2,0
+The Man Who Shot Liberty Valance,3,0
+The Man Who Shot Liberty Valance,4,0
+The Man Who Shot Liberty Valance,5,0
+Ivanovo detstvo,1,16
+Ivanovo detstvo,2,0
+Ivanovo detstvo,3,0
+Ivanovo detstvo,4,0
+Ivanovo detstvo,5,0
+Jungfrukällan,1,8
+Jungfrukällan,2,0
+Jungfrukällan,3,0
+Jungfrukällan,4,0
+Jungfrukällan,5,0
+Inherit the Wind,1,10
+Inherit the Wind,2,0
+Inherit the Wind,3,0
+Inherit the Wind,4,0
+Inherit the Wind,5,0
+Les quatre cents coups,1,14
+Les quatre cents coups,2,0
+Les quatre cents coups,3,0
+Les quatre cents coups,4,0
+Les quatre cents coups,5,0
+Ben-Hur,1,17
+Ben-Hur,2,0
+Ben-Hur,3,0
+Ben-Hur,4,0
+Ben-Hur,5,0
+Kakushi-toride no san-akunin,1,13
+Kakushi-toride no san-akunin,2,0
+Kakushi-toride no san-akunin,3,0
+Kakushi-toride no san-akunin,4,0
+Kakushi-toride no san-akunin,5,0
+Le notti di Cabiria,1,9
+Le notti di Cabiria,2,0
+Le notti di Cabiria,3,0
+Le notti di Cabiria,4,0
+Le notti di Cabiria,5,0
+Kumonosu-jô,1,12
+Kumonosu-jô,2,0
+Kumonosu-jô,3,0
+Kumonosu-jô,4,0
+Kumonosu-jô,5,0
+The Bridge on the River Kwai,1,14
+The Bridge on the River Kwai,2,0
+The Bridge on the River Kwai,3,0
+The Bridge on the River Kwai,4,0
+The Bridge on the River Kwai,5,0
+On the Waterfront,1,16
+On the Waterfront,2,0
+On the Waterfront,3,0
+On the Waterfront,4,0
+On the Waterfront,5,0
+Le salaire de la peur,1,5
+Le salaire de la peur,2,0
+Le salaire de la peur,3,0
+Le salaire de la peur,4,0
+Le salaire de la peur,5,0
+Ace in the Hole,1,14
+Ace in the Hole,2,0
+Ace in the Hole,3,0
+Ace in the Hole,4,0
+Ace in the Hole,5,0
+White Heat,1,14
+White Heat,2,0
+White Heat,3,0
+White Heat,4,0
+White Heat,5,0
+The Third Man,1,12
+The Third Man,2,0
+The Third Man,3,0
+The Third Man,4,0
+The Third Man,5,0
+The Red Shoes,1,14
+The Red Shoes,2,0
+The Red Shoes,3,0
+The Red Shoes,4,0
+The Red Shoes,5,0
+The Shop Around the Corner,1,5
+The Shop Around the Corner,2,0
+The Shop Around the Corner,3,0
+The Shop Around the Corner,4,0
+The Shop Around the Corner,5,0
+Rebecca,1,17
+Rebecca,2,0
+Rebecca,3,0
+Rebecca,4,0
+Rebecca,5,0
+Mr. Smith Goes to Washington,1,12
+Mr. Smith Goes to Washington,2,0
+Mr. Smith Goes to Washington,3,0
+Mr. Smith Goes to Washington,4,0
+Mr. Smith Goes to Washington,5,0
+Gone with the Wind,1,17
+Gone with the Wind,2,0
+Gone with the Wind,3,0
+Gone with the Wind,4,0
+Gone with the Wind,5,0
+La Grande Illusion,1,10
+La Grande Illusion,2,0
+La Grande Illusion,3,0
+La Grande Illusion,4,0
+La Grande Illusion,5,0
+It Happened One Night,1,11
+It Happened One Night,2,0
+It Happened One Night,3,0
+It Happened One Night,4,0
+It Happened One Night,5,0
+La passion de Jeanne d'Arc,1,12
+La passion de Jeanne d'Arc,2,0
+La passion de Jeanne d'Arc,3,0
+La passion de Jeanne d'Arc,4,0
+La passion de Jeanne d'Arc,5,0
+The Circus,1,12
+The Circus,2,0
+The Circus,3,0
+The Circus,4,0
+The Circus,5,0
+Sunrise: A Song of Two Humans,1,15
+Sunrise: A Song of Two Humans,2,0
+Sunrise: A Song of Two Humans,3,0
+Sunrise: A Song of Two Humans,4,0
+Sunrise: A Song of Two Humans,5,0
+The General,1,13
+The General,2,0
+The General,3,0
+The General,4,0
+The General,5,0
+Das Cabinet des Dr. Caligari,1,22
+Das Cabinet des Dr. Caligari,2,0
+Das Cabinet des Dr. Caligari,3,0
+Das Cabinet des Dr. Caligari,4,0
+Das Cabinet des Dr. Caligari,5,0
+Badhaai ho,1,11
+Badhaai ho,2,0
+Badhaai ho,3,0
+Badhaai ho,4,0
+Badhaai ho,5,0
+Togo,1,20
+Togo,2,0
+Togo,3,0
+Togo,4,0
+Togo,5,0
+Airlift,1,10
+Airlift,2,0
+Airlift,3,0
+Airlift,4,0
+Airlift,5,0
+Bajrangi Bhaijaan,1,8
+Bajrangi Bhaijaan,2,0
+Bajrangi Bhaijaan,3,0
+Bajrangi Bhaijaan,4,0
+Bajrangi Bhaijaan,5,0
+Baby,1,11
+Baby,2,0
+Baby,3,0
+Baby,4,0
+Baby,5,0
+La La Land,1,12
+La La Land,2,0
+La La Land,3,0
+La La Land,4,0
+La La Land,5,0
+Lion,1,16
+Lion,2,0
+Lion,3,0
+Lion,4,0
+Lion,5,0
+The Martian,1,10
+The Martian,2,0
+The Martian,3,0
+The Martian,4,0
+The Martian,5,0
+Zootopia,1,11
+Zootopia,2,0
+Zootopia,3,0
+Zootopia,4,0
+Zootopia,5,0
+Bãhubali: The Beginning,1,25
+Bãhubali: The Beginning,2,0
+Bãhubali: The Beginning,3,0
+Bãhubali: The Beginning,4,0
+Bãhubali: The Beginning,5,0
+Kaguyahime no monogatari,1,14
+Kaguyahime no monogatari,2,0
+Kaguyahime no monogatari,3,0
+Kaguyahime no monogatari,4,0
+Kaguyahime no monogatari,5,0
+Wonder,1,13
+Wonder,2,0
+Wonder,3,0
+Wonder,4,0
+Wonder,5,0
+Gully Boy,1,15
+Gully Boy,2,0
+Gully Boy,3,0
+Gully Boy,4,0
+Gully Boy,5,0
+Special Chabbis,1,19
+Special Chabbis,2,0
+Special Chabbis,3,0
+Special Chabbis,4,0
+Special Chabbis,5,0
+Short Term 12,1,16
+Short Term 12,2,0
+Short Term 12,3,0
+Short Term 12,4,0
+Short Term 12,5,0
+Serbuan maut 2: Berandal,1,17
+Serbuan maut 2: Berandal,2,0
+Serbuan maut 2: Berandal,3,0
+Serbuan maut 2: Berandal,4,0
+Serbuan maut 2: Berandal,5,0
+The Imitation Game,1,18
+The Imitation Game,2,0
+The Imitation Game,3,0
+The Imitation Game,4,0
+The Imitation Game,5,0
+Guardians of the Galaxy,1,11
+Guardians of the Galaxy,2,0
+Guardians of the Galaxy,3,0
+Guardians of the Galaxy,4,0
+Guardians of the Galaxy,5,0
+Blade Runner 2049,1,9
+Blade Runner 2049,2,0
+Blade Runner 2049,3,0
+Blade Runner 2049,4,0
+Blade Runner 2049,5,0
+Her,1,17
+Her,2,0
+Her,3,0
+Her,4,0
+Her,5,0
+Bohemian Rhapsody,1,10
+Bohemian Rhapsody,2,0
+Bohemian Rhapsody,3,0
+Bohemian Rhapsody,4,0
+Bohemian Rhapsody,5,0
+The Revenant,1,13
+The Revenant,2,0
+The Revenant,3,0
+The Revenant,4,0
+The Revenant,5,0
+The Perks of Being a Wallflower,1,11
+The Perks of Being a Wallflower,2,0
+The Perks of Being a Wallflower,3,0
+The Perks of Being a Wallflower,4,0
+The Perks of Being a Wallflower,5,0
+Tropa de Elite 2: O Inimigo Agora é Outro,1,10
+Tropa de Elite 2: O Inimigo Agora é Outro,2,0
+Tropa de Elite 2: O Inimigo Agora é Outro,3,0
+Tropa de Elite 2: O Inimigo Agora é Outro,4,0
+Tropa de Elite 2: O Inimigo Agora é Outro,5,0
+The King's Speech,1,14
+The King's Speech,2,0
+The King's Speech,3,0
+The King's Speech,4,0
+The King's Speech,5,0
+The Help,1,16
+The Help,2,0
+The Help,3,0
+The Help,4,0
+The Help,5,0
+Deadpool,1,17
+Deadpool,2,0
+Deadpool,3,0
+Deadpool,4,0
+Deadpool,5,0
+Darbareye Elly,1,9
+Darbareye Elly,2,0
+Darbareye Elly,3,0
+Darbareye Elly,4,0
+Darbareye Elly,5,0
+Dev.D,1,13
+Dev.D,2,0
+Dev.D,3,0
+Dev.D,4,0
+Dev.D,5,0
+Yip Man,1,11
+Yip Man,2,0
+Yip Man,3,0
+Yip Man,4,0
+Yip Man,5,0
+My Name Is Khan,1,19
+My Name Is Khan,2,0
+My Name Is Khan,3,0
+My Name Is Khan,4,0
+My Name Is Khan,5,0
+Nefes: Vatan Sagolsun,1,13
+Nefes: Vatan Sagolsun,2,0
+Nefes: Vatan Sagolsun,3,0
+Nefes: Vatan Sagolsun,4,0
+Nefes: Vatan Sagolsun,5,0
+Slumdog Millionaire,1,10
+Slumdog Millionaire,2,0
+Slumdog Millionaire,3,0
+Slumdog Millionaire,4,0
+Slumdog Millionaire,5,0
+Black Swan,1,13
+Black Swan,2,0
+Black Swan,3,0
+Black Swan,4,0
+Black Swan,5,0
+Tropa de Elite,1,10
+Tropa de Elite,2,0
+Tropa de Elite,3,0
+Tropa de Elite,4,0
+Tropa de Elite,5,0
+The Avengers,1,16
+The Avengers,2,0
+The Avengers,3,0
+The Avengers,4,0
+The Avengers,5,0
+Persepolis,1,14
+Persepolis,2,0
+Persepolis,3,0
+Persepolis,4,0
+Persepolis,5,0
+Dallas Buyers Club,1,10
+Dallas Buyers Club,2,0
+Dallas Buyers Club,3,0
+Dallas Buyers Club,4,0
+Dallas Buyers Club,5,0
+The Pursuit of Happyness,1,15
+The Pursuit of Happyness,2,0
+The Pursuit of Happyness,3,0
+The Pursuit of Happyness,4,0
+The Pursuit of Happyness,5,0
+Blood Diamond,1,9
+Blood Diamond,2,0
+Blood Diamond,3,0
+Blood Diamond,4,0
+Blood Diamond,5,0
+The Bourne Ultimatum,1,15
+The Bourne Ultimatum,2,0
+The Bourne Ultimatum,3,0
+The Bourne Ultimatum,4,0
+The Bourne Ultimatum,5,0
+Bin-jip,1,10
+Bin-jip,2,0
+Bin-jip,3,0
+Bin-jip,4,0
+Bin-jip,5,0
+Sin City,1,13
+Sin City,2,0
+Sin City,3,0
+Sin City,4,0
+Sin City,5,0
+Le scaphandre et le papillon,1,20
+Le scaphandre et le papillon,2,0
+Le scaphandre et le papillon,3,0
+Le scaphandre et le papillon,4,0
+Le scaphandre et le papillon,5,0
+G.O.R.A.,1,16
+G.O.R.A.,2,0
+G.O.R.A.,3,0
+G.O.R.A.,4,0
+G.O.R.A.,5,0
+Ratatouille,1,13
+Ratatouille,2,0
+Ratatouille,3,0
+Ratatouille,4,0
+Ratatouille,5,0
+Casino Royale,1,13
+Casino Royale,2,0
+Casino Royale,3,0
+Casino Royale,4,0
+Casino Royale,5,0
+Kill Bill: Vol. 2,1,17
+Kill Bill: Vol. 2,2,0
+Kill Bill: Vol. 2,3,0
+Kill Bill: Vol. 2,4,0
+Kill Bill: Vol. 2,5,0
+Vozvrashchenie,1,15
+Vozvrashchenie,2,0
+Vozvrashchenie,3,0
+Vozvrashchenie,4,0
+Vozvrashchenie,5,0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,1,9
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2,0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,3,0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,4,0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,5,0
+Mar adentro,1,19
+Mar adentro,2,0
+Mar adentro,3,0
+Mar adentro,4,0
+Mar adentro,5,0
+Cinderella Man,1,12
+Cinderella Man,2,0
+Cinderella Man,3,0
+Cinderella Man,4,0
+Cinderella Man,5,0
+Kal Ho Naa Ho,1,11
+Kal Ho Naa Ho,2,0
+Kal Ho Naa Ho,3,0
+Kal Ho Naa Ho,4,0
+Kal Ho Naa Ho,5,0
+Mou gaan dou,1,14
+Mou gaan dou,2,0
+Mou gaan dou,3,0
+Mou gaan dou,4,0
+Mou gaan dou,5,0
+Pirates of the Caribbean: The Curse of the Black Pearl,1,11
+Pirates of the Caribbean: The Curse of the Black Pearl,2,0
+Pirates of the Caribbean: The Curse of the Black Pearl,3,0
+Pirates of the Caribbean: The Curse of the Black Pearl,4,0
+Pirates of the Caribbean: The Curse of the Black Pearl,5,0
+Big Fish,1,13
+Big Fish,2,0
+Big Fish,3,0
+Big Fish,4,0
+Big Fish,5,0
+The Incredibles,1,15
+The Incredibles,2,0
+The Incredibles,3,0
+The Incredibles,4,0
+The Incredibles,5,0
+Yeopgijeogin geunyeo,1,6
+Yeopgijeogin geunyeo,2,0
+Yeopgijeogin geunyeo,3,0
+Yeopgijeogin geunyeo,4,0
+Yeopgijeogin geunyeo,5,0
+Dogville,1,19
+Dogville,2,0
+Dogville,3,0
+Dogville,4,0
+Dogville,5,0
+Vizontele,1,8
+Vizontele,2,0
+Vizontele,3,0
+Vizontele,4,0
+Vizontele,5,0
+Donnie Darko,1,13
+Donnie Darko,2,0
+Donnie Darko,3,0
+Donnie Darko,4,0
+Donnie Darko,5,0
+Magnolia,1,17
+Magnolia,2,0
+Magnolia,3,0
+Magnolia,4,0
+Magnolia,5,0
+Dancer in the Dark,1,9
+Dancer in the Dark,2,0
+Dancer in the Dark,3,0
+Dancer in the Dark,4,0
+Dancer in the Dark,5,0
+The Straight Story,1,15
+The Straight Story,2,0
+The Straight Story,3,0
+The Straight Story,4,0
+The Straight Story,5,0
+Pâfekuto burû,1,13
+Pâfekuto burû,2,0
+Pâfekuto burû,3,0
+Pâfekuto burû,4,0
+Pâfekuto burû,5,0
+Festen,1,15
+Festen,2,0
+Festen,3,0
+Festen,4,0
+Festen,5,0
+Central do Brasil,1,13
+Central do Brasil,2,0
+Central do Brasil,3,0
+Central do Brasil,4,0
+Central do Brasil,5,0
+The Iron Giant,1,14
+The Iron Giant,2,0
+The Iron Giant,3,0
+The Iron Giant,4,0
+The Iron Giant,5,0
+Knockin' on Heaven's Door,1,14
+Knockin' on Heaven's Door,2,0
+Knockin' on Heaven's Door,3,0
+Knockin' on Heaven's Door,4,0
+Knockin' on Heaven's Door,5,0
+Sling Blade,1,13
+Sling Blade,2,0
+Sling Blade,3,0
+Sling Blade,4,0
+Sling Blade,5,0
+Secrets & Lies,1,13
+Secrets & Lies,2,0
+Secrets & Lies,3,0
+Secrets & Lies,4,0
+Secrets & Lies,5,0
+Twelve Monkeys,1,13
+Twelve Monkeys,2,0
+Twelve Monkeys,3,0
+Twelve Monkeys,4,0
+Twelve Monkeys,5,0
+Kôkaku Kidôtai,1,11
+Kôkaku Kidôtai,2,0
+Kôkaku Kidôtai,3,0
+Kôkaku Kidôtai,4,0
+Kôkaku Kidôtai,5,0
+The Nightmare Before Christmas,1,20
+The Nightmare Before Christmas,2,0
+The Nightmare Before Christmas,3,0
+The Nightmare Before Christmas,4,0
+The Nightmare Before Christmas,5,0
+Groundhog Day,1,11
+Groundhog Day,2,0
+Groundhog Day,3,0
+Groundhog Day,4,0
+Groundhog Day,5,0
+Bound by Honor,1,11
+Bound by Honor,2,0
+Bound by Honor,3,0
+Bound by Honor,4,0
+Bound by Honor,5,0
+Scent of a Woman,1,13
+Scent of a Woman,2,0
+Scent of a Woman,3,0
+Scent of a Woman,4,0
+Scent of a Woman,5,0
+Aladdin,1,16
+Aladdin,2,0
+Aladdin,3,0
+Aladdin,4,0
+Aladdin,5,0
+JFK,1,19
+JFK,2,0
+JFK,3,0
+JFK,4,0
+JFK,5,0
+Beauty and the Beast,1,13
+Beauty and the Beast,2,0
+Beauty and the Beast,3,0
+Beauty and the Beast,4,0
+Beauty and the Beast,5,0
+Dances with Wolves,1,12
+Dances with Wolves,2,0
+Dances with Wolves,3,0
+Dances with Wolves,4,0
+Dances with Wolves,5,0
+Do the Right Thing,1,12
+Do the Right Thing,2,0
+Do the Right Thing,3,0
+Do the Right Thing,4,0
+Do the Right Thing,5,0
+Rain Man,1,12
+Rain Man,2,0
+Rain Man,3,0
+Rain Man,4,0
+Rain Man,5,0
+Akira,1,8
+Akira,2,0
+Akira,3,0
+Akira,4,0
+Akira,5,0
+The Princess Bride,1,12
+The Princess Bride,2,0
+The Princess Bride,3,0
+The Princess Bride,4,0
+The Princess Bride,5,0
+Der Himmel über Berlin,1,15
+Der Himmel über Berlin,2,0
+Der Himmel über Berlin,3,0
+Der Himmel über Berlin,4,0
+Der Himmel über Berlin,5,0
+Au revoir les enfants,1,19
+Au revoir les enfants,2,0
+Au revoir les enfants,3,0
+Au revoir les enfants,4,0
+Au revoir les enfants,5,0
+Tenkû no shiro Rapyuta,1,19
+Tenkû no shiro Rapyuta,2,0
+Tenkû no shiro Rapyuta,3,0
+Tenkû no shiro Rapyuta,4,0
+Tenkû no shiro Rapyuta,5,0
+The Terminator,1,12
+The Terminator,2,0
+The Terminator,3,0
+The Terminator,4,0
+The Terminator,5,0
+Gandhi,1,17
+Gandhi,2,0
+Gandhi,3,0
+Gandhi,4,0
+Gandhi,5,0
+Kagemusha,1,14
+Kagemusha,2,0
+Kagemusha,3,0
+Kagemusha,4,0
+Kagemusha,5,0
+Being There,1,13
+Being There,2,0
+Being There,3,0
+Being There,4,0
+Being There,5,0
+Annie Hall,1,7
+Annie Hall,2,0
+Annie Hall,3,0
+Annie Hall,4,0
+Annie Hall,5,0
+Jaws,1,11
+Jaws,2,0
+Jaws,3,0
+Jaws,4,0
+Jaws,5,0
+Dog Day Afternoon,1,9
+Dog Day Afternoon,2,0
+Dog Day Afternoon,3,0
+Dog Day Afternoon,4,0
+Dog Day Afternoon,5,0
+Young Frankenstein,1,10
+Young Frankenstein,2,0
+Young Frankenstein,3,0
+Young Frankenstein,4,0
+Young Frankenstein,5,0
+Papillon,1,20
+Papillon,2,0
+Papillon,3,0
+Papillon,4,0
+Papillon,5,0
+The Exorcist,1,19
+The Exorcist,2,0
+The Exorcist,3,0
+The Exorcist,4,0
+The Exorcist,5,0
+Sleuth,1,9
+Sleuth,2,0
+Sleuth,3,0
+Sleuth,4,0
+Sleuth,5,0
+The Last Picture Show,1,15
+The Last Picture Show,2,0
+The Last Picture Show,3,0
+The Last Picture Show,4,0
+The Last Picture Show,5,0
+Fiddler on the Roof,1,10
+Fiddler on the Roof,2,0
+Fiddler on the Roof,3,0
+Fiddler on the Roof,4,0
+Fiddler on the Roof,5,0
+Il conformista,1,16
+Il conformista,2,0
+Il conformista,3,0
+Il conformista,4,0
+Il conformista,5,0
+Butch Cassidy and the Sundance Kid,1,14
+Butch Cassidy and the Sundance Kid,2,0
+Butch Cassidy and the Sundance Kid,3,0
+Butch Cassidy and the Sundance Kid,4,0
+Butch Cassidy and the Sundance Kid,5,0
+Rosemary's Baby,1,16
+Rosemary's Baby,2,0
+Rosemary's Baby,3,0
+Rosemary's Baby,4,0
+Rosemary's Baby,5,0
+Planet of the Apes,1,8
+Planet of the Apes,2,0
+Planet of the Apes,3,0
+Planet of the Apes,4,0
+Planet of the Apes,5,0
+The Graduate,1,14
+The Graduate,2,0
+The Graduate,3,0
+The Graduate,4,0
+The Graduate,5,0
+Who's Afraid of Virginia Woolf?,1,15
+Who's Afraid of Virginia Woolf?,2,0
+Who's Afraid of Virginia Woolf?,3,0
+Who's Afraid of Virginia Woolf?,4,0
+Who's Afraid of Virginia Woolf?,5,0
+The Sound of Music,1,13
+The Sound of Music,2,0
+The Sound of Music,3,0
+The Sound of Music,4,0
+The Sound of Music,5,0
+Doctor Zhivago,1,10
+Doctor Zhivago,2,0
+Doctor Zhivago,3,0
+Doctor Zhivago,4,0
+Doctor Zhivago,5,0
+Per un pugno di dollari,1,11
+Per un pugno di dollari,2,0
+Per un pugno di dollari,3,0
+Per un pugno di dollari,4,0
+Per un pugno di dollari,5,0
+8½,1,16
+8½,2,0
+8½,3,0
+8½,4,0
+8½,5,0
+Vivre sa vie: Film en douze tableaux,1,10
+Vivre sa vie: Film en douze tableaux,2,0
+Vivre sa vie: Film en douze tableaux,3,0
+Vivre sa vie: Film en douze tableaux,4,0
+Vivre sa vie: Film en douze tableaux,5,0
+The Hustler,1,14
+The Hustler,2,0
+The Hustler,3,0
+The Hustler,4,0
+The Hustler,5,0
+La dolce vita,1,17
+La dolce vita,2,0
+La dolce vita,3,0
+La dolce vita,4,0
+La dolce vita,5,0
+Rio Bravo,1,13
+Rio Bravo,2,0
+Rio Bravo,3,0
+Rio Bravo,4,0
+Rio Bravo,5,0
+Anatomy of a Murder,1,13
+Anatomy of a Murder,2,0
+Anatomy of a Murder,3,0
+Anatomy of a Murder,4,0
+Anatomy of a Murder,5,0
+Touch of Evil,1,17
+Touch of Evil,2,0
+Touch of Evil,3,0
+Touch of Evil,4,0
+Touch of Evil,5,0
+Cat on a Hot Tin Roof,1,12
+Cat on a Hot Tin Roof,2,0
+Cat on a Hot Tin Roof,3,0
+Cat on a Hot Tin Roof,4,0
+Cat on a Hot Tin Roof,5,0
+Sweet Smell of Success,1,16
+Sweet Smell of Success,2,0
+Sweet Smell of Success,3,0
+Sweet Smell of Success,4,0
+Sweet Smell of Success,5,0
+The Killing,1,9
+The Killing,2,0
+The Killing,3,0
+The Killing,4,0
+The Killing,5,0
+The Night of the Hunter,1,7
+The Night of the Hunter,2,0
+The Night of the Hunter,3,0
+The Night of the Hunter,4,0
+The Night of the Hunter,5,0
+La Strada,1,13
+La Strada,2,0
+La Strada,3,0
+La Strada,4,0
+La Strada,5,0
+Les diaboliques,1,14
+Les diaboliques,2,0
+Les diaboliques,3,0
+Les diaboliques,4,0
+Les diaboliques,5,0
+Stalag 17,1,13
+Stalag 17,2,0
+Stalag 17,3,0
+Stalag 17,4,0
+Stalag 17,5,0
+Roman Holiday,1,8
+Roman Holiday,2,0
+Roman Holiday,3,0
+Roman Holiday,4,0
+Roman Holiday,5,0
+A Streetcar Named Desire,1,12
+A Streetcar Named Desire,2,0
+A Streetcar Named Desire,3,0
+A Streetcar Named Desire,4,0
+A Streetcar Named Desire,5,0
+In a Lonely Place,1,14
+In a Lonely Place,2,0
+In a Lonely Place,3,0
+In a Lonely Place,4,0
+In a Lonely Place,5,0
+Kind Hearts and Coronets,1,12
+Kind Hearts and Coronets,2,0
+Kind Hearts and Coronets,3,0
+Kind Hearts and Coronets,4,0
+Kind Hearts and Coronets,5,0
+Rope,1,6
+Rope,2,0
+Rope,3,0
+Rope,4,0
+Rope,5,0
+Out of the Past,1,16
+Out of the Past,2,0
+Out of the Past,3,0
+Out of the Past,4,0
+Out of the Past,5,0
+Brief Encounter,1,16
+Brief Encounter,2,0
+Brief Encounter,3,0
+Brief Encounter,4,0
+Brief Encounter,5,0
+Laura,1,13
+Laura,2,0
+Laura,3,0
+Laura,4,0
+Laura,5,0
+The Best Years of Our Lives,1,15
+The Best Years of Our Lives,2,0
+The Best Years of Our Lives,3,0
+The Best Years of Our Lives,4,0
+The Best Years of Our Lives,5,0
+Arsenic and Old Lace,1,13
+Arsenic and Old Lace,2,0
+Arsenic and Old Lace,3,0
+Arsenic and Old Lace,4,0
+Arsenic and Old Lace,5,0
+The Maltese Falcon,1,11
+The Maltese Falcon,2,0
+The Maltese Falcon,3,0
+The Maltese Falcon,4,0
+The Maltese Falcon,5,0
+The Grapes of Wrath,1,10
+The Grapes of Wrath,2,0
+The Grapes of Wrath,3,0
+The Grapes of Wrath,4,0
+The Grapes of Wrath,5,0
+The Wizard of Oz,1,16
+The Wizard of Oz,2,0
+The Wizard of Oz,3,0
+The Wizard of Oz,4,0
+The Wizard of Oz,5,0
+La règle du jeu,1,19
+La règle du jeu,2,0
+La règle du jeu,3,0
+La règle du jeu,4,0
+La règle du jeu,5,0
+The Thin Man,1,11
+The Thin Man,2,0
+The Thin Man,3,0
+The Thin Man,4,0
+The Thin Man,5,0
+All Quiet on the Western Front,1,13
+All Quiet on the Western Front,2,0
+All Quiet on the Western Front,3,0
+All Quiet on the Western Front,4,0
+All Quiet on the Western Front,5,0
+Bronenosets Potemkin,1,10
+Bronenosets Potemkin,2,0
+Bronenosets Potemkin,3,0
+Bronenosets Potemkin,4,0
+Bronenosets Potemkin,5,0
+Knives Out,1,10
+Knives Out,2,0
+Knives Out,3,0
+Knives Out,4,0
+Knives Out,5,0
+Dil Bechara,1,14
+Dil Bechara,2,0
+Dil Bechara,3,0
+Dil Bechara,4,0
+Dil Bechara,5,0
+Manbiki kazoku,1,18
+Manbiki kazoku,2,0
+Manbiki kazoku,3,0
+Manbiki kazoku,4,0
+Manbiki kazoku,5,0
+Marriage Story,1,10
+Marriage Story,2,0
+Marriage Story,3,0
+Marriage Story,4,0
+Marriage Story,5,0
+Call Me by Your Name,1,13
+Call Me by Your Name,2,0
+Call Me by Your Name,3,0
+Call Me by Your Name,4,0
+Call Me by Your Name,5,0
+I, Daniel Blak,1,16
+I, Daniel Blak,2,0
+I, Daniel Blak,3,0
+I, Daniel Blak,4,0
+I, Daniel Blak,5,0
+Isle of Dogs,1,13
+Isle of Dogs,2,0
+Isle of Dogs,3,0
+Isle of Dogs,4,0
+Isle of Dogs,5,0
+Hunt for the Wilderpeople,1,11
+Hunt for the Wilderpeople,2,0
+Hunt for the Wilderpeople,3,0
+Hunt for the Wilderpeople,4,0
+Hunt for the Wilderpeople,5,0
+Captain Fantastic,1,10
+Captain Fantastic,2,0
+Captain Fantastic,3,0
+Captain Fantastic,4,0
+Captain Fantastic,5,0
+Sing Street,1,18
+Sing Street,2,0
+Sing Street,3,0
+Sing Street,4,0
+Sing Street,5,0
+Thor: Ragnarok,1,10
+Thor: Ragnarok,2,0
+Thor: Ragnarok,3,0
+Thor: Ragnarok,4,0
+Thor: Ragnarok,5,0
+Nightcrawler,1,13
+Nightcrawler,2,0
+Nightcrawler,3,0
+Nightcrawler,4,0
+Nightcrawler,5,0
+Jojo Rabbit,1,12
+Jojo Rabbit,2,0
+Jojo Rabbit,3,0
+Jojo Rabbit,4,0
+Jojo Rabbit,5,0
+Arrival,1,11
+Arrival,2,0
+Arrival,3,0
+Arrival,4,0
+Arrival,5,0
+Star Wars: Episode VII - The Force Awakens,1,15
+Star Wars: Episode VII - The Force Awakens,2,0
+Star Wars: Episode VII - The Force Awakens,3,0
+Star Wars: Episode VII - The Force Awakens,4,0
+Star Wars: Episode VII - The Force Awakens,5,0
+Before Midnight,1,14
+Before Midnight,2,0
+Before Midnight,3,0
+Before Midnight,4,0
+Before Midnight,5,0
+X-Men: Days of Future Past,1,12
+X-Men: Days of Future Past,2,0
+X-Men: Days of Future Past,3,0
+X-Men: Days of Future Past,4,0
+X-Men: Days of Future Past,5,0
+Bir Zamanlar Anadolu'da,1,16
+Bir Zamanlar Anadolu'da,2,0
+Bir Zamanlar Anadolu'da,3,0
+Bir Zamanlar Anadolu'da,4,0
+Bir Zamanlar Anadolu'da,5,0
+The Artist,1,12
+The Artist,2,0
+The Artist,3,0
+The Artist,4,0
+The Artist,5,0
+Edge of Tomorrow,1,25
+Edge of Tomorrow,2,0
+Edge of Tomorrow,3,0
+Edge of Tomorrow,4,0
+Edge of Tomorrow,5,0
+Amour,1,9
+Amour,2,0
+Amour,3,0
+Amour,4,0
+Amour,5,0
+The Irishman,1,15
+The Irishman,2,0
+The Irishman,3,0
+The Irishman,4,0
+The Irishman,5,0
+Un prophète,1,14
+Un prophète,2,0
+Un prophète,3,0
+Un prophète,4,0
+Un prophète,5,0
+Moon,1,16
+Moon,2,0
+Moon,3,0
+Moon,4,0
+Moon,5,0
+Låt den rätte komma in,1,20
+Låt den rätte komma in,2,0
+Låt den rätte komma in,3,0
+Låt den rätte komma in,4,0
+Låt den rätte komma in,5,0
+District 9,1,15
+District 9,2,0
+District 9,3,0
+District 9,4,0
+District 9,5,0
+The Wrestler,1,11
+The Wrestler,2,0
+The Wrestler,3,0
+The Wrestler,4,0
+The Wrestler,5,0
+Jab We Met,1,10
+Jab We Met,2,0
+Jab We Met,3,0
+Jab We Met,4,0
+Jab We Met,5,0
+Boyhood,1,11
+Boyhood,2,0
+Boyhood,3,0
+Boyhood,4,0
+Boyhood,5,0
+4 luni, 3 saptamâni si 2 zil,1,9
+4 luni, 3 saptamâni si 2 zil,2,0
+4 luni, 3 saptamâni si 2 zil,3,0
+4 luni, 3 saptamâni si 2 zil,4,0
+4 luni, 3 saptamâni si 2 zil,5,0
+Star Trek,1,15
+Star Trek,2,0
+Star Trek,3,0
+Star Trek,4,0
+Star Trek,5,0
+In Bruges,1,12
+In Bruges,2,0
+In Bruges,3,0
+In Bruges,4,0
+In Bruges,5,0
+The Man from Earth,1,15
+The Man from Earth,2,0
+The Man from Earth,3,0
+The Man from Earth,4,0
+The Man from Earth,5,0
+Letters from Iwo Jima,1,16
+Letters from Iwo Jima,2,0
+Letters from Iwo Jima,3,0
+Letters from Iwo Jima,4,0
+Letters from Iwo Jima,5,0
+The Fall,1,12
+The Fall,2,0
+The Fall,3,0
+The Fall,4,0
+The Fall,5,0
+Life of Pi,1,9
+Life of Pi,2,0
+Life of Pi,3,0
+Life of Pi,4,0
+Life of Pi,5,0
+Fantastic Mr. Fox,1,14
+Fantastic Mr. Fox,2,0
+Fantastic Mr. Fox,3,0
+Fantastic Mr. Fox,4,0
+Fantastic Mr. Fox,5,0
+C.R.A.Z.Y.,1,11
+C.R.A.Z.Y.,2,0
+C.R.A.Z.Y.,3,0
+C.R.A.Z.Y.,4,0
+C.R.A.Z.Y.,5,0
+Les choristes,1,10
+Les choristes,2,0
+Les choristes,3,0
+Les choristes,4,0
+Les choristes,5,0
+Iron Man,1,10
+Iron Man,2,0
+Iron Man,3,0
+Iron Man,4,0
+Iron Man,5,0
+Shaun of the Dead,1,23
+Shaun of the Dead,2,0
+Shaun of the Dead,3,0
+Shaun of the Dead,4,0
+Shaun of the Dead,5,0
+Gegen die Wand,1,15
+Gegen die Wand,2,0
+Gegen die Wand,3,0
+Gegen die Wand,4,0
+Gegen die Wand,5,0
+Mystic River,1,14
+Mystic River,2,0
+Mystic River,3,0
+Mystic River,4,0
+Mystic River,5,0
+Harry Potter and the Prisoner of Azkaban,1,16
+Harry Potter and the Prisoner of Azkaban,2,0
+Harry Potter and the Prisoner of Azkaban,3,0
+Harry Potter and the Prisoner of Azkaban,4,0
+Harry Potter and the Prisoner of Azkaban,5,0
+Ying xiong,1,11
+Ying xiong,2,0
+Ying xiong,3,0
+Ying xiong,4,0
+Ying xiong,5,0
+Hable con ella,1,8
+Hable con ella,2,0
+Hable con ella,3,0
+Hable con ella,4,0
+Hable con ella,5,0
+No Man's Land,1,13
+No Man's Land,2,0
+No Man's Land,3,0
+No Man's Land,4,0
+No Man's Land,5,0
+Cowboy Bebop: Tengoku no tobira,1,24
+Cowboy Bebop: Tengoku no tobira,2,0
+Cowboy Bebop: Tengoku no tobira,3,0
+Cowboy Bebop: Tengoku no tobira,4,0
+Cowboy Bebop: Tengoku no tobira,5,0
+The Bourne Identity,1,17
+The Bourne Identity,2,0
+The Bourne Identity,3,0
+The Bourne Identity,4,0
+The Bourne Identity,5,0
+Nueve reinas,1,12
+Nueve reinas,2,0
+Nueve reinas,3,0
+Nueve reinas,4,0
+Nueve reinas,5,0
+Children of Men,1,10
+Children of Men,2,0
+Children of Men,3,0
+Children of Men,4,0
+Children of Men,5,0
+Almost Famous,1,10
+Almost Famous,2,0
+Almost Famous,3,0
+Almost Famous,4,0
+Almost Famous,5,0
+Mulholland Dr.,1,19
+Mulholland Dr.,2,0
+Mulholland Dr.,3,0
+Mulholland Dr.,4,0
+Mulholland Dr.,5,0
+Toy Story 2,1,14
+Toy Story 2,2,0
+Toy Story 2,3,0
+Toy Story 2,4,0
+Toy Story 2,5,0
+Boogie Nights,1,16
+Boogie Nights,2,0
+Boogie Nights,3,0
+Boogie Nights,4,0
+Boogie Nights,5,0
+Mimi wo sumaseba,1,18
+Mimi wo sumaseba,2,0
+Mimi wo sumaseba,3,0
+Mimi wo sumaseba,4,0
+Mimi wo sumaseba,5,0
+Once Were Warriors,1,13
+Once Were Warriors,2,0
+Once Were Warriors,3,0
+Once Were Warriors,4,0
+Once Were Warriors,5,0
+True Romance,1,10
+True Romance,2,0
+True Romance,3,0
+True Romance,4,0
+True Romance,5,0
+Trois couleurs: Bleu,1,5
+Trois couleurs: Bleu,2,0
+Trois couleurs: Bleu,3,0
+Trois couleurs: Bleu,4,0
+Trois couleurs: Bleu,5,0
+Jûbê ninpûchô,1,20
+Jûbê ninpûchô,2,0
+Jûbê ninpûchô,3,0
+Jûbê ninpûchô,4,0
+Jûbê ninpûchô,5,0
+Carlito's Way,1,9
+Carlito's Way,2,0
+Carlito's Way,3,0
+Carlito's Way,4,0
+Carlito's Way,5,0
+Edward Scissorhands,1,13
+Edward Scissorhands,2,0
+Edward Scissorhands,3,0
+Edward Scissorhands,4,0
+Edward Scissorhands,5,0
+My Left Foot: The Story of Christy Brown,1,14
+My Left Foot: The Story of Christy Brown,2,0
+My Left Foot: The Story of Christy Brown,3,0
+My Left Foot: The Story of Christy Brown,4,0
+My Left Foot: The Story of Christy Brown,5,0
+Crimes and Misdemeanors,1,11
+Crimes and Misdemeanors,2,0
+Crimes and Misdemeanors,3,0
+Crimes and Misdemeanors,4,0
+Crimes and Misdemeanors,5,0
+The Untouchables,1,13
+The Untouchables,2,0
+The Untouchables,3,0
+The Untouchables,4,0
+The Untouchables,5,0
+Hannah and Her Sisters,1,15
+Hannah and Her Sisters,2,0
+Hannah and Her Sisters,3,0
+Hannah and Her Sisters,4,0
+Hannah and Her Sisters,5,0
+Brazil,1,13
+Brazil,2,0
+Brazil,3,0
+Brazil,4,0
+Brazil,5,0
+This Is Spinal Tap,1,8
+This Is Spinal Tap,2,0
+This Is Spinal Tap,3,0
+This Is Spinal Tap,4,0
+This Is Spinal Tap,5,0
+A Christmas Story,1,15
+A Christmas Story,2,0
+A Christmas Story,3,0
+A Christmas Story,4,0
+A Christmas Story,5,0
+The Blues Brothers,1,14
+The Blues Brothers,2,0
+The Blues Brothers,3,0
+The Blues Brothers,4,0
+The Blues Brothers,5,0
+Manhattan,1,12
+Manhattan,2,0
+Manhattan,3,0
+Manhattan,4,0
+Manhattan,5,0
+All That Jazz,1,7
+All That Jazz,2,0
+All That Jazz,3,0
+All That Jazz,4,0
+All That Jazz,5,0
+Dawn of the Dead,1,20
+Dawn of the Dead,2,0
+Dawn of the Dead,3,0
+Dawn of the Dead,4,0
+Dawn of the Dead,5,0
+All the President's Men,1,4
+All the President's Men,2,0
+All the President's Men,3,0
+All the President's Men,4,0
+All the President's Men,5,0
+La montaña sagrada,1,16
+La montaña sagrada,2,0
+La montaña sagrada,3,0
+La montaña sagrada,4,0
+La montaña sagrada,5,0
+Amarcord,1,9
+Amarcord,2,0
+Amarcord,3,0
+Amarcord,4,0
+Amarcord,5,0
+Le charme discret de la bourgeoisie,1,12
+Le charme discret de la bourgeoisie,2,0
+Le charme discret de la bourgeoisie,3,0
+Le charme discret de la bourgeoisie,4,0
+Le charme discret de la bourgeoisie,5,0
+Aguirre, der Zorn Gotte,1,13
+Aguirre, der Zorn Gotte,2,0
+Aguirre, der Zorn Gotte,3,0
+Aguirre, der Zorn Gotte,4,0
+Aguirre, der Zorn Gotte,5,0
+Harold and Maude,1,11
+Harold and Maude,2,0
+Harold and Maude,3,0
+Harold and Maude,4,0
+Harold and Maude,5,0
+Patton,1,20
+Patton,2,0
+Patton,3,0
+Patton,4,0
+Patton,5,0
+The Wild Bunch,1,7
+The Wild Bunch,2,0
+The Wild Bunch,3,0
+The Wild Bunch,4,0
+The Wild Bunch,5,0
+Night of the Living Dead,1,13
+Night of the Living Dead,2,0
+Night of the Living Dead,3,0
+Night of the Living Dead,4,0
+Night of the Living Dead,5,0
+The Lion in Winter,1,17
+The Lion in Winter,2,0
+The Lion in Winter,3,0
+The Lion in Winter,4,0
+The Lion in Winter,5,0
+In the Heat of the Night,1,12
+In the Heat of the Night,2,0
+In the Heat of the Night,3,0
+In the Heat of the Night,4,0
+In the Heat of the Night,5,0
+Charade,1,16
+Charade,2,0
+Charade,3,0
+Charade,4,0
+Charade,5,0
+The Manchurian Candidate,1,12
+The Manchurian Candidate,2,0
+The Manchurian Candidate,3,0
+The Manchurian Candidate,4,0
+The Manchurian Candidate,5,0
+Spartacus,1,20
+Spartacus,2,0
+Spartacus,3,0
+Spartacus,4,0
+Spartacus,5,0
+L'avventura,1,13
+L'avventura,2,0
+L'avventura,3,0
+L'avventura,4,0
+L'avventura,5,0
+Hiroshima mon amour,1,14
+Hiroshima mon amour,2,0
+Hiroshima mon amour,3,0
+Hiroshima mon amour,4,0
+Hiroshima mon amour,5,0
+The Ten Commandments,1,13
+The Ten Commandments,2,0
+The Ten Commandments,3,0
+The Ten Commandments,4,0
+The Ten Commandments,5,0
+The Searchers,1,14
+The Searchers,2,0
+The Searchers,3,0
+The Searchers,4,0
+The Searchers,5,0
+East of Eden,1,18
+East of Eden,2,0
+East of Eden,3,0
+East of Eden,4,0
+East of Eden,5,0
+High Noon,1,7
+High Noon,2,0
+High Noon,3,0
+High Noon,4,0
+High Noon,5,0
+Strangers on a Train,1,13
+Strangers on a Train,2,0
+Strangers on a Train,3,0
+Strangers on a Train,4,0
+Strangers on a Train,5,0
+Harvey,1,8
+Harvey,2,0
+Harvey,3,0
+Harvey,4,0
+Harvey,5,0
+Miracle on 34th Street,1,19
+Miracle on 34th Street,2,0
+Miracle on 34th Street,3,0
+Miracle on 34th Street,4,0
+Miracle on 34th Street,5,0
+Notorious,1,8
+Notorious,2,0
+Notorious,3,0
+Notorious,4,0
+Notorious,5,0
+The Big Sleep,1,9
+The Big Sleep,2,0
+The Big Sleep,3,0
+The Big Sleep,4,0
+The Big Sleep,5,0
+The Lost Weekend,1,12
+The Lost Weekend,2,0
+The Lost Weekend,3,0
+The Lost Weekend,4,0
+The Lost Weekend,5,0
+The Philadelphia Story,1,9
+The Philadelphia Story,2,0
+The Philadelphia Story,3,0
+The Philadelphia Story,4,0
+The Philadelphia Story,5,0
+His Girl Friday,1,14
+His Girl Friday,2,0
+His Girl Friday,3,0
+His Girl Friday,4,0
+His Girl Friday,5,0
+The Adventures of Robin Hood,1,13
+The Adventures of Robin Hood,2,0
+The Adventures of Robin Hood,3,0
+The Adventures of Robin Hood,4,0
+The Adventures of Robin Hood,5,0
+A Night at the Opera,1,14
+A Night at the Opera,2,0
+A Night at the Opera,3,0
+A Night at the Opera,4,0
+A Night at the Opera,5,0
+King Kong,1,11
+King Kong,2,0
+King Kong,3,0
+King Kong,4,0
+King Kong,5,0
+Freaks,1,22
+Freaks,2,0
+Freaks,3,0
+Freaks,4,0
+Freaks,5,0
+Nosferatu,1,7
+Nosferatu,2,0
+Nosferatu,3,0
+Nosferatu,4,0
+Nosferatu,5,0
+The Gentlemen,1,16
+The Gentlemen,2,0
+The Gentlemen,3,0
+The Gentlemen,4,0
+The Gentlemen,5,0
+Raazi,1,17
+Raazi,2,0
+Raazi,3,0
+Raazi,4,0
+Raazi,5,0
+Sound of Metal,1,12
+Sound of Metal,2,0
+Sound of Metal,3,0
+Sound of Metal,4,0
+Sound of Metal,5,0
+Forushande,1,11
+Forushande,2,0
+Forushande,3,0
+Forushande,4,0
+Forushande,5,0
+Dunkirk,1,14
+Dunkirk,2,0
+Dunkirk,3,0
+Dunkirk,4,0
+Dunkirk,5,0
+Perfetti sconosciuti,1,12
+Perfetti sconosciuti,2,0
+Perfetti sconosciuti,3,0
+Perfetti sconosciuti,4,0
+Perfetti sconosciuti,5,0
+Hidden Figures,1,11
+Hidden Figures,2,0
+Hidden Figures,3,0
+Hidden Figures,4,0
+Hidden Figures,5,0
+Paddington 2,1,13
+Paddington 2,2,0
+Paddington 2,3,0
+Paddington 2,4,0
+Paddington 2,5,0
+Udta Punjab,1,17
+Udta Punjab,2,0
+Udta Punjab,3,0
+Udta Punjab,4,0
+Udta Punjab,5,0
+Kubo and the Two Strings,1,13
+Kubo and the Two Strings,2,0
+Kubo and the Two Strings,3,0
+Kubo and the Two Strings,4,0
+Kubo and the Two Strings,5,0
+M.S. Dhoni: The Untold Story,1,15
+M.S. Dhoni: The Untold Story,2,0
+M.S. Dhoni: The Untold Story,3,0
+M.S. Dhoni: The Untold Story,4,0
+M.S. Dhoni: The Untold Story,5,0
+Manchester by the Sea,1,8
+Manchester by the Sea,2,0
+Manchester by the Sea,3,0
+Manchester by the Sea,4,0
+Manchester by the Sea,5,0
+Under sandet,1,10
+Under sandet,2,0
+Under sandet,3,0
+Under sandet,4,0
+Under sandet,5,0
+Rogue One,1,13
+Rogue One,2,0
+Rogue One,3,0
+Rogue One,4,0
+Rogue One,5,0
+Captain America: Civil War,1,21
+Captain America: Civil War,2,0
+Captain America: Civil War,3,0
+Captain America: Civil War,4,0
+Captain America: Civil War,5,0
+The Hateful Eight,1,16
+The Hateful Eight,2,0
+The Hateful Eight,3,0
+The Hateful Eight,4,0
+The Hateful Eight,5,0
+Little Women,1,14
+Little Women,2,0
+Little Women,3,0
+Little Women,4,0
+Little Women,5,0
+Loving Vincent,1,9
+Loving Vincent,2,0
+Loving Vincent,3,0
+Loving Vincent,4,0
+Loving Vincent,5,0
+Pride,1,14
+Pride,2,0
+Pride,3,0
+Pride,4,0
+Pride,5,0
+Le passé,1,11
+Le passé,2,0
+Le passé,3,0
+Le passé,4,0
+Le passé,5,0
+La grande bellezza,1,9
+La grande bellezza,2,0
+La grande bellezza,3,0
+La grande bellezza,4,0
+La grande bellezza,5,0
+The Lunchbox,1,14
+The Lunchbox,2,0
+The Lunchbox,3,0
+The Lunchbox,4,0
+The Lunchbox,5,0
+Vicky Donor,1,12
+Vicky Donor,2,0
+Vicky Donor,3,0
+Vicky Donor,4,0
+Vicky Donor,5,0
+Big Hero 6,1,19
+Big Hero 6,2,0
+Big Hero 6,3,0
+Big Hero 6,4,0
+Big Hero 6,5,0
+About Time,1,8
+About Time,2,0
+About Time,3,0
+About Time,4,0
+About Time,5,0
+English Vinglish,1,24
+English Vinglish,2,0
+English Vinglish,3,0
+English Vinglish,4,0
+English Vinglish,5,0
+Kaze tachinu,1,19
+Kaze tachinu,2,0
+Kaze tachinu,3,0
+Kaze tachinu,4,0
+Kaze tachinu,5,0
+Toy Story 4,1,15
+Toy Story 4,2,0
+Toy Story 4,3,0
+Toy Story 4,4,0
+Toy Story 4,5,0
+La migliore offerta,1,8
+La migliore offerta,2,0
+La migliore offerta,3,0
+La migliore offerta,4,0
+La migliore offerta,5,0
+Moonrise Kingdom,1,18
+Moonrise Kingdom,2,0
+Moonrise Kingdom,3,0
+Moonrise Kingdom,4,0
+Moonrise Kingdom,5,0
+How to Train Your Dragon 2,1,12
+How to Train Your Dragon 2,2,0
+How to Train Your Dragon 2,3,0
+How to Train Your Dragon 2,4,0
+How to Train Your Dragon 2,5,0
+The Big Short,1,14
+The Big Short,2,0
+The Big Short,3,0
+The Big Short,4,0
+The Big Short,5,0
+Kokuhaku,1,9
+Kokuhaku,2,0
+Kokuhaku,3,0
+Kokuhaku,4,0
+Kokuhaku,5,0
+Ang-ma-reul bo-at-da,1,15
+Ang-ma-reul bo-at-da,2,0
+Ang-ma-reul bo-at-da,3,0
+Ang-ma-reul bo-at-da,4,0
+Ang-ma-reul bo-at-da,5,0
+The Girl with the Dragon Tattoo,1,10
+The Girl with the Dragon Tattoo,2,0
+The Girl with the Dragon Tattoo,3,0
+The Girl with the Dragon Tattoo,4,0
+The Girl with the Dragon Tattoo,5,0
+Captain Phillips,1,10
+Captain Phillips,2,0
+Captain Phillips,3,0
+Captain Phillips,4,0
+Captain Phillips,5,0
+Ajeossi,1,11
+Ajeossi,2,0
+Ajeossi,3,0
+Ajeossi,4,0
+Ajeossi,5,0
+Straight Outta Compton,1,14
+Straight Outta Compton,2,0
+Straight Outta Compton,3,0
+Straight Outta Compton,4,0
+Straight Outta Compton,5,0
+Madeo,1,14
+Madeo,2,0
+Madeo,3,0
+Madeo,4,0
+Madeo,5,0
+Chugyeokja,1,13
+Chugyeokja,2,0
+Chugyeokja,3,0
+Chugyeokja,4,0
+Chugyeokja,5,0
+The Hobbit: The Desolation of Smaug,1,12
+The Hobbit: The Desolation of Smaug,2,0
+The Hobbit: The Desolation of Smaug,3,0
+The Hobbit: The Desolation of Smaug,4,0
+The Hobbit: The Desolation of Smaug,5,0
+Das weiße Band - Eine deutsche Kindergeschichte,1,14
+Das weiße Band - Eine deutsche Kindergeschichte,2,0
+Das weiße Band - Eine deutsche Kindergeschichte,3,0
+Das weiße Band - Eine deutsche Kindergeschichte,4,0
+Das weiße Band - Eine deutsche Kindergeschichte,5,0
+Män som hatar kvinnor,1,15
+Män som hatar kvinnor,2,0
+Män som hatar kvinnor,3,0
+Män som hatar kvinnor,4,0
+Män som hatar kvinnor,5,0
+The Trial of the Chicago 7,1,14
+The Trial of the Chicago 7,2,0
+The Trial of the Chicago 7,3,0
+The Trial of the Chicago 7,4,0
+The Trial of the Chicago 7,5,0
+Druk,1,15
+Druk,2,0
+Druk,3,0
+Druk,4,0
+Druk,5,0
+The Fighter,1,14
+The Fighter,2,0
+The Fighter,3,0
+The Fighter,4,0
+The Fighter,5,0
+Taken,1,12
+Taken,2,0
+Taken,3,0
+Taken,4,0
+Taken,5,0
+The Boy in the Striped Pyjamas,1,12
+The Boy in the Striped Pyjamas,2,0
+The Boy in the Striped Pyjamas,3,0
+The Boy in the Striped Pyjamas,4,0
+The Boy in the Striped Pyjamas,5,0
+Once,1,14
+Once,2,0
+Once,3,0
+Once,4,0
+Once,5,0
+The Hobbit: An Unexpected Journey,1,9
+The Hobbit: An Unexpected Journey,2,0
+The Hobbit: An Unexpected Journey,3,0
+The Hobbit: An Unexpected Journey,4,0
+The Hobbit: An Unexpected Journey,5,0
+Auf der anderen Seite,1,21
+Auf der anderen Seite,2,0
+Auf der anderen Seite,3,0
+Auf der anderen Seite,4,0
+Auf der anderen Seite,5,0
+Atonement,1,6
+Atonement,2,0
+Atonement,3,0
+Atonement,4,0
+Atonement,5,0
+Drive,1,9
+Drive,2,0
+Drive,3,0
+Drive,4,0
+Drive,5,0
+American Gangster,1,11
+American Gangster,2,0
+American Gangster,3,0
+American Gangster,4,0
+American Gangster,5,0
+Avatar,1,11
+Avatar,2,0
+Avatar,3,0
+Avatar,4,0
+Avatar,5,0
+Mr. Nobody,1,13
+Mr. Nobody,2,0
+Mr. Nobody,3,0
+Mr. Nobody,4,0
+Mr. Nobody,5,0
+Apocalypto,1,10
+Apocalypto,2,0
+Apocalypto,3,0
+Apocalypto,4,0
+Apocalypto,5,0
+Little Miss Sunshine,1,15
+Little Miss Sunshine,2,0
+Little Miss Sunshine,3,0
+Little Miss Sunshine,4,0
+Little Miss Sunshine,5,0
+Hot Fuzz,1,16
+Hot Fuzz,2,0
+Hot Fuzz,3,0
+Hot Fuzz,4,0
+Hot Fuzz,5,0
+The Curious Case of Benjamin Button,1,14
+The Curious Case of Benjamin Button,2,0
+The Curious Case of Benjamin Button,3,0
+The Curious Case of Benjamin Button,4,0
+The Curious Case of Benjamin Button,5,0
+Veer-Zaara,1,12
+Veer-Zaara,2,0
+Veer-Zaara,3,0
+Veer-Zaara,4,0
+Veer-Zaara,5,0
+Adams æbler,1,12
+Adams æbler,2,0
+Adams æbler,3,0
+Adams æbler,4,0
+Adams æbler,5,0
+Pride & Prejudice,1,16
+Pride & Prejudice,2,0
+Pride & Prejudice,3,0
+Pride & Prejudice,4,0
+Pride & Prejudice,5,0
+The World's Fastest Indian,1,10
+The World's Fastest Indian,2,0
+The World's Fastest Indian,3,0
+The World's Fastest Indian,4,0
+The World's Fastest Indian,5,0
+Tôkyô goddofâzâzu,1,9
+Tôkyô goddofâzâzu,2,0
+Tôkyô goddofâzâzu,3,0
+Tôkyô goddofâzâzu,4,0
+Tôkyô goddofâzâzu,5,0
+Serenity,1,16
+Serenity,2,0
+Serenity,3,0
+Serenity,4,0
+Serenity,5,0
+Walk the Line,1,15
+Walk the Line,2,0
+Walk the Line,3,0
+Walk the Line,4,0
+Walk the Line,5,0
+Ondskan,1,13
+Ondskan,2,0
+Ondskan,3,0
+Ondskan,4,0
+Ondskan,5,0
+The Notebook,1,19
+The Notebook,2,0
+The Notebook,3,0
+The Notebook,4,0
+The Notebook,5,0
+Diarios de motocicleta,1,19
+Diarios de motocicleta,2,0
+Diarios de motocicleta,3,0
+Diarios de motocicleta,4,0
+Diarios de motocicleta,5,0
+Lilja 4-ever,1,10
+Lilja 4-ever,2,0
+Lilja 4-ever,3,0
+Lilja 4-ever,4,0
+Lilja 4-ever,5,0
+Les triplettes de Belleville,1,10
+Les triplettes de Belleville,2,0
+Les triplettes de Belleville,3,0
+Les triplettes de Belleville,4,0
+Les triplettes de Belleville,5,0
+Gongdong gyeongbi guyeok JSA,1,19
+Gongdong gyeongbi guyeok JSA,2,0
+Gongdong gyeongbi guyeok JSA,3,0
+Gongdong gyeongbi guyeok JSA,4,0
+Gongdong gyeongbi guyeok JSA,5,0
+The Count of Monte Cristo,1,13
+The Count of Monte Cristo,2,0
+The Count of Monte Cristo,3,0
+The Count of Monte Cristo,4,0
+The Count of Monte Cristo,5,0
+Waking Life,1,7
+Waking Life,2,0
+Waking Life,3,0
+Waking Life,4,0
+Waking Life,5,0
+Remember the Titans,1,17
+Remember the Titans,2,0
+Remember the Titans,3,0
+Remember the Titans,4,0
+Remember the Titans,5,0
+Wo hu cang long,1,8
+Wo hu cang long,2,0
+Wo hu cang long,3,0
+Wo hu cang long,4,0
+Wo hu cang long,5,0
+Todo sobre mi madre,1,16
+Todo sobre mi madre,2,0
+Todo sobre mi madre,3,0
+Todo sobre mi madre,4,0
+Todo sobre mi madre,5,0
+Cast Away,1,15
+Cast Away,2,0
+Cast Away,3,0
+Cast Away,4,0
+Cast Away,5,0
+The Boondock Saints,1,9
+The Boondock Saints,2,0
+The Boondock Saints,3,0
+The Boondock Saints,4,0
+The Boondock Saints,5,0
+The Insider,1,11
+The Insider,2,0
+The Insider,3,0
+The Insider,4,0
+The Insider,5,0
+October Sky,1,21
+October Sky,2,0
+October Sky,3,0
+October Sky,4,0
+October Sky,5,0
+Shrek,1,15
+Shrek,2,0
+Shrek,3,0
+Shrek,4,0
+Shrek,5,0
+Titanic,1,10
+Titanic,2,0
+Titanic,3,0
+Titanic,4,0
+Titanic,5,0
+Hana-bi,1,18
+Hana-bi,2,0
+Hana-bi,3,0
+Hana-bi,4,0
+Hana-bi,5,0
+Gattaca,1,10
+Gattaca,2,0
+Gattaca,3,0
+Gattaca,4,0
+Gattaca,5,0
+The Game,1,14
+The Game,2,0
+The Game,3,0
+The Game,4,0
+The Game,5,0
+Breaking the Waves,1,16
+Breaking the Waves,2,0
+Breaking the Waves,3,0
+Breaking the Waves,4,0
+Breaking the Waves,5,0
+Ed Wood,1,12
+Ed Wood,2,0
+Ed Wood,3,0
+Ed Wood,4,0
+Ed Wood,5,0
+What's Eating Gilbert Grape,1,14
+What's Eating Gilbert Grape,2,0
+What's Eating Gilbert Grape,3,0
+What's Eating Gilbert Grape,4,0
+What's Eating Gilbert Grape,5,0
+Tombstone,1,10
+Tombstone,2,0
+Tombstone,3,0
+Tombstone,4,0
+Tombstone,5,0
+The Sandlot,1,12
+The Sandlot,2,0
+The Sandlot,3,0
+The Sandlot,4,0
+The Sandlot,5,0
+The Remains of the Day,1,11
+The Remains of the Day,2,0
+The Remains of the Day,3,0
+The Remains of the Day,4,0
+The Remains of the Day,5,0
+Naked,1,9
+Naked,2,0
+Naked,3,0
+Naked,4,0
+Naked,5,0
+The Fugitive,1,9
+The Fugitive,2,0
+The Fugitive,3,0
+The Fugitive,4,0
+The Fugitive,5,0
+A Bronx Tale,1,14
+A Bronx Tale,2,0
+A Bronx Tale,3,0
+A Bronx Tale,4,0
+A Bronx Tale,5,0
+Batman: Mask of the Phantasm,1,14
+Batman: Mask of the Phantasm,2,0
+Batman: Mask of the Phantasm,3,0
+Batman: Mask of the Phantasm,4,0
+Batman: Mask of the Phantasm,5,0
+Lat sau san taam,1,15
+Lat sau san taam,2,0
+Lat sau san taam,3,0
+Lat sau san taam,4,0
+Lat sau san taam,5,0
+Night on Earth,1,12
+Night on Earth,2,0
+Night on Earth,3,0
+Night on Earth,4,0
+Night on Earth,5,0
+La double vie de Véronique,1,15
+La double vie de Véronique,2,0
+La double vie de Véronique,3,0
+La double vie de Véronique,4,0
+La double vie de Véronique,5,0
+Boyz n the Hood,1,10
+Boyz n the Hood,2,0
+Boyz n the Hood,3,0
+Boyz n the Hood,4,0
+Boyz n the Hood,5,0
+Misery,1,17
+Misery,2,0
+Misery,3,0
+Misery,4,0
+Misery,5,0
+Awakenings,1,9
+Awakenings,2,0
+Awakenings,3,0
+Awakenings,4,0
+Awakenings,5,0
+Majo no takkyûbin,1,13
+Majo no takkyûbin,2,0
+Majo no takkyûbin,3,0
+Majo no takkyûbin,4,0
+Majo no takkyûbin,5,0
+Glory,1,20
+Glory,2,0
+Glory,3,0
+Glory,4,0
+Glory,5,0
+Dip huet seung hung,1,13
+Dip huet seung hung,2,0
+Dip huet seung hung,3,0
+Dip huet seung hung,4,0
+Dip huet seung hung,5,0
+Back to the Future Part II,1,8
+Back to the Future Part II,2,0
+Back to the Future Part II,3,0
+Back to the Future Part II,4,0
+Back to the Future Part II,5,0
+Mississippi Burning,1,12
+Mississippi Burning,2,0
+Mississippi Burning,3,0
+Mississippi Burning,4,0
+Mississippi Burning,5,0
+Predator,1,16
+Predator,2,0
+Predator,3,0
+Predator,4,0
+Predator,5,0
+Evil Dead II,1,17
+Evil Dead II,2,0
+Evil Dead II,3,0
+Evil Dead II,4,0
+Evil Dead II,5,0
+Ferris Bueller's Day Off,1,11
+Ferris Bueller's Day Off,2,0
+Ferris Bueller's Day Off,3,0
+Ferris Bueller's Day Off,4,0
+Ferris Bueller's Day Off,5,0
+Down by Law,1,11
+Down by Law,2,0
+Down by Law,3,0
+Down by Law,4,0
+Down by Law,5,0
+The Goonies,1,18
+The Goonies,2,0
+The Goonies,3,0
+The Goonies,4,0
+The Goonies,5,0
+The Color Purple,1,10
+The Color Purple,2,0
+The Color Purple,3,0
+The Color Purple,4,0
+The Color Purple,5,0
+The Breakfast Club,1,6
+The Breakfast Club,2,0
+The Breakfast Club,3,0
+The Breakfast Club,4,0
+The Breakfast Club,5,0
+The Killing Fields,1,13
+The Killing Fields,2,0
+The Killing Fields,3,0
+The Killing Fields,4,0
+The Killing Fields,5,0
+Ghostbusters,1,10
+Ghostbusters,2,0
+Ghostbusters,3,0
+Ghostbusters,4,0
+Ghostbusters,5,0
+The Right Stuff,1,7
+The Right Stuff,2,0
+The Right Stuff,3,0
+The Right Stuff,4,0
+The Right Stuff,5,0
+The King of Comedy,1,7
+The King of Comedy,2,0
+The King of Comedy,3,0
+The King of Comedy,4,0
+The King of Comedy,5,0
+E.T. the Extra-Terrestrial,1,12
+E.T. the Extra-Terrestrial,2,0
+E.T. the Extra-Terrestrial,3,0
+E.T. the Extra-Terrestrial,4,0
+E.T. the Extra-Terrestrial,5,0
+Kramer vs. Kramer,1,17
+Kramer vs. Kramer,2,0
+Kramer vs. Kramer,3,0
+Kramer vs. Kramer,4,0
+Kramer vs. Kramer,5,0
+Days of Heaven,1,15
+Days of Heaven,2,0
+Days of Heaven,3,0
+Days of Heaven,4,0
+Days of Heaven,5,0
+The Outlaw Josey Wales,1,13
+The Outlaw Josey Wales,2,0
+The Outlaw Josey Wales,3,0
+The Outlaw Josey Wales,4,0
+The Outlaw Josey Wales,5,0
+The Man Who Would Be King,1,12
+The Man Who Would Be King,2,0
+The Man Who Would Be King,3,0
+The Man Who Would Be King,4,0
+The Man Who Would Be King,5,0
+The Conversation,1,11
+The Conversation,2,0
+The Conversation,3,0
+The Conversation,4,0
+The Conversation,5,0
+La planète sauvage,1,16
+La planète sauvage,2,0
+La planète sauvage,3,0
+La planète sauvage,4,0
+La planète sauvage,5,0
+The Day of the Jackal,1,16
+The Day of the Jackal,2,0
+The Day of the Jackal,3,0
+The Day of the Jackal,4,0
+The Day of the Jackal,5,0
+Badlands,1,9
+Badlands,2,0
+Badlands,3,0
+Badlands,4,0
+Badlands,5,0
+Cabaret,1,12
+Cabaret,2,0
+Cabaret,3,0
+Cabaret,4,0
+Cabaret,5,0
+Willy Wonka & the Chocolate Factory,1,13
+Willy Wonka & the Chocolate Factory,2,0
+Willy Wonka & the Chocolate Factory,3,0
+Willy Wonka & the Chocolate Factory,4,0
+Willy Wonka & the Chocolate Factory,5,0
+Midnight Cowboy,1,19
+Midnight Cowboy,2,0
+Midnight Cowboy,3,0
+Midnight Cowboy,4,0
+Midnight Cowboy,5,0
+Wait Until Dark,1,11
+Wait Until Dark,2,0
+Wait Until Dark,3,0
+Wait Until Dark,4,0
+Wait Until Dark,5,0
+Guess Who's Coming to Dinner,1,21
+Guess Who's Coming to Dinner,2,0
+Guess Who's Coming to Dinner,3,0
+Guess Who's Coming to Dinner,4,0
+Guess Who's Coming to Dinner,5,0
+Bonnie and Clyde,1,9
+Bonnie and Clyde,2,0
+Bonnie and Clyde,3,0
+Bonnie and Clyde,4,0
+Bonnie and Clyde,5,0
+My Fair Lady,1,19
+My Fair Lady,2,0
+My Fair Lady,3,0
+My Fair Lady,4,0
+My Fair Lady,5,0
+Mary Poppins,1,10
+Mary Poppins,2,0
+Mary Poppins,3,0
+Mary Poppins,4,0
+Mary Poppins,5,0
+The Longest Day,1,10
+The Longest Day,2,0
+The Longest Day,3,0
+The Longest Day,4,0
+The Longest Day,5,0
+Jules et Jim,1,18
+Jules et Jim,2,0
+Jules et Jim,3,0
+Jules et Jim,4,0
+Jules et Jim,5,0
+The Innocents,1,13
+The Innocents,2,0
+The Innocents,3,0
+The Innocents,4,0
+The Innocents,5,0
+À bout de souffle,1,13
+À bout de souffle,2,0
+À bout de souffle,3,0
+À bout de souffle,4,0
+À bout de souffle,5,0
+Red River,1,16
+Red River,2,0
+Red River,3,0
+Red River,4,0
+Red River,5,0
+Key Largo,1,14
+Key Largo,2,0
+Key Largo,3,0
+Key Largo,4,0
+Key Largo,5,0
+To Have and Have Not,1,14
+To Have and Have Not,2,0
+To Have and Have Not,3,0
+To Have and Have Not,4,0
+To Have and Have Not,5,0
+Shadow of a Doubt,1,10
+Shadow of a Doubt,2,0
+Shadow of a Doubt,3,0
+Shadow of a Doubt,4,0
+Shadow of a Doubt,5,0
+Stagecoach,1,14
+Stagecoach,2,0
+Stagecoach,3,0
+Stagecoach,4,0
+Stagecoach,5,0
+The Lady Vanishes,1,9
+The Lady Vanishes,2,0
+The Lady Vanishes,3,0
+The Lady Vanishes,4,0
+The Lady Vanishes,5,0
+Bringing Up Baby,1,16
+Bringing Up Baby,2,0
+Bringing Up Baby,3,0
+Bringing Up Baby,4,0
+Bringing Up Baby,5,0
+Bride of Frankenstein,1,5
+Bride of Frankenstein,2,0
+Bride of Frankenstein,3,0
+Bride of Frankenstein,4,0
+Bride of Frankenstein,5,0
+Duck Soup,1,15
+Duck Soup,2,0
+Duck Soup,3,0
+Duck Soup,4,0
+Duck Soup,5,0
+Scarface: The Shame of the Nation,1,16
+Scarface: The Shame of the Nation,2,0
+Scarface: The Shame of the Nation,3,0
+Scarface: The Shame of the Nation,4,0
+Scarface: The Shame of the Nation,5,0
+Frankenstein,1,11
+Frankenstein,2,0
+Frankenstein,3,0
+Frankenstein,4,0
+Frankenstein,5,0
+Roma,1,8
+Roma,2,0
+Roma,3,0
+Roma,4,0
+Roma,5,0
+God's Own Country,1,11
+God's Own Country,2,0
+God's Own Country,3,0
+God's Own Country,4,0
+God's Own Country,5,0
+Deadpool 2,1,13
+Deadpool 2,2,0
+Deadpool 2,3,0
+Deadpool 2,4,0
+Deadpool 2,5,0
+Wind River,1,12
+Wind River,2,0
+Wind River,3,0
+Wind River,4,0
+Wind River,5,0
+Get Out,1,9
+Get Out,2,0
+Get Out,3,0
+Get Out,4,0
+Get Out,5,0
+Mission: Impossible - Fallout,1,14
+Mission: Impossible - Fallout,2,0
+Mission: Impossible - Fallout,3,0
+Mission: Impossible - Fallout,4,0
+Mission: Impossible - Fallout,5,0
+En man som heter Ove,1,14
+En man som heter Ove,2,0
+En man som heter Ove,3,0
+En man som heter Ove,4,0
+En man som heter Ove,5,0
+What We Do in the Shadows,1,13
+What We Do in the Shadows,2,0
+What We Do in the Shadows,3,0
+What We Do in the Shadows,4,0
+What We Do in the Shadows,5,0
+Omoide no Mânî,1,16
+Omoide no Mânî,2,0
+Omoide no Mânî,3,0
+Omoide no Mânî,4,0
+Omoide no Mânî,5,0
+The Theory of Everything,1,17
+The Theory of Everything,2,0
+The Theory of Everything,3,0
+The Theory of Everything,4,0
+The Theory of Everything,5,0
+Kingsman: The Secret Service,1,17
+Kingsman: The Secret Service,2,0
+Kingsman: The Secret Service,3,0
+Kingsman: The Secret Service,4,0
+Kingsman: The Secret Service,5,0
+The Fault in Our Stars,1,16
+The Fault in Our Stars,2,0
+The Fault in Our Stars,3,0
+The Fault in Our Stars,4,0
+The Fault in Our Stars,5,0
+Me and Earl and the Dying Girl,1,11
+Me and Earl and the Dying Girl,2,0
+Me and Earl and the Dying Girl,3,0
+Me and Earl and the Dying Girl,4,0
+Me and Earl and the Dying Girl,5,0
+Birdman or (The Unexpected Virtue of Ignorance),1,15
+Birdman or (The Unexpected Virtue of Ignorance),2,0
+Birdman or (The Unexpected Virtue of Ignorance),3,0
+Birdman or (The Unexpected Virtue of Ignorance),4,0
+Birdman or (The Unexpected Virtue of Ignorance),5,0
+La vie d'Adèle,1,14
+La vie d'Adèle,2,0
+La vie d'Adèle,3,0
+La vie d'Adèle,4,0
+La vie d'Adèle,5,0
+Kai po che!,1,13
+Kai po che!,2,0
+Kai po che!,3,0
+Kai po che!,4,0
+Kai po che!,5,0
+The Broken Circle Breakdown,1,15
+The Broken Circle Breakdown,2,0
+The Broken Circle Breakdown,3,0
+The Broken Circle Breakdown,4,0
+The Broken Circle Breakdown,5,0
+Captain America: The Winter Soldier,1,14
+Captain America: The Winter Soldier,2,0
+Captain America: The Winter Soldier,3,0
+Captain America: The Winter Soldier,4,0
+Captain America: The Winter Soldier,5,0
+Rockstar,1,13
+Rockstar,2,0
+Rockstar,3,0
+Rockstar,4,0
+Rockstar,5,0
+Nebraska,1,12
+Nebraska,2,0
+Nebraska,3,0
+Nebraska,4,0
+Nebraska,5,0
+Wreck-It Ralph,1,13
+Wreck-It Ralph,2,0
+Wreck-It Ralph,3,0
+Wreck-It Ralph,4,0
+Wreck-It Ralph,5,0
+Le Petit Prince,1,15
+Le Petit Prince,2,0
+Le Petit Prince,3,0
+Le Petit Prince,4,0
+Le Petit Prince,5,0
+Detachment,1,15
+Detachment,2,0
+Detachment,3,0
+Detachment,4,0
+Detachment,5,0
+Midnight in Paris,1,13
+Midnight in Paris,2,0
+Midnight in Paris,3,0
+Midnight in Paris,4,0
+Midnight in Paris,5,0
+The Lego Movie,1,12
+The Lego Movie,2,0
+The Lego Movie,3,0
+The Lego Movie,4,0
+The Lego Movie,5,0
+Gravity,1,15
+Gravity,2,0
+Gravity,3,0
+Gravity,4,0
+Gravity,5,0
+Star Trek Into Darkness,1,16
+Star Trek Into Darkness,2,0
+Star Trek Into Darkness,3,0
+Star Trek Into Darkness,4,0
+Star Trek Into Darkness,5,0
+Beasts of No Nation,1,10
+Beasts of No Nation,2,0
+Beasts of No Nation,3,0
+Beasts of No Nation,4,0
+Beasts of No Nation,5,0
+The Social Network,1,13
+The Social Network,2,0
+The Social Network,3,0
+The Social Network,4,0
+The Social Network,5,0
+X: First Class,1,6
+X: First Class,2,0
+X: First Class,3,0
+X: First Class,4,0
+X: First Class,5,0
+The Hangover,1,17
+The Hangover,2,0
+The Hangover,3,0
+The Hangover,4,0
+The Hangover,5,0
+Skyfall,1,17
+Skyfall,2,0
+Skyfall,3,0
+Skyfall,4,0
+Skyfall,5,0
+Silver Linings Playbook,1,9
+Silver Linings Playbook,2,0
+Silver Linings Playbook,3,0
+Silver Linings Playbook,4,0
+Silver Linings Playbook,5,0
+Argo,1,14
+Argo,2,0
+Argo,3,0
+Argo,4,0
+Argo,5,0
+(500) Days of Summer,1,6
+(500) Days of Summer,2,0
+(500) Days of Summer,3,0
+(500) Days of Summer,4,0
+(500) Days of Summer,5,0
+Harry Potter and the Deathly Hallows: Part 1,1,18
+Harry Potter and the Deathly Hallows: Part 1,2,0
+Harry Potter and the Deathly Hallows: Part 1,3,0
+Harry Potter and the Deathly Hallows: Part 1,4,0
+Harry Potter and the Deathly Hallows: Part 1,5,0
+Gake no ue no Ponyo,1,16
+Gake no ue no Ponyo,2,0
+Gake no ue no Ponyo,3,0
+Gake no ue no Ponyo,4,0
+Gake no ue no Ponyo,5,0
+Frost/Nixon,1,10
+Frost/Nixon,2,0
+Frost/Nixon,3,0
+Frost/Nixon,4,0
+Frost/Nixon,5,0
+Papurika,1,19
+Papurika,2,0
+Papurika,3,0
+Papurika,4,0
+Papurika,5,0
+Changeling,1,15
+Changeling,2,0
+Changeling,3,0
+Changeling,4,0
+Changeling,5,0
+Flipped,1,15
+Flipped,2,0
+Flipped,3,0
+Flipped,4,0
+Flipped,5,0
+Toki o kakeru shôjo,1,17
+Toki o kakeru shôjo,2,0
+Toki o kakeru shôjo,3,0
+Toki o kakeru shôjo,4,0
+Toki o kakeru shôjo,5,0
+Death Note: Desu nôto,1,7
+Death Note: Desu nôto,2,0
+Death Note: Desu nôto,3,0
+Death Note: Desu nôto,4,0
+Death Note: Desu nôto,5,0
+This Is England,1,14
+This Is England,2,0
+This Is England,3,0
+This Is England,4,0
+This Is England,5,0
+Ex Machina,1,9
+Ex Machina,2,0
+Ex Machina,3,0
+Ex Machina,4,0
+Ex Machina,5,0
+Efter brylluppet,1,10
+Efter brylluppet,2,0
+Efter brylluppet,3,0
+Efter brylluppet,4,0
+Efter brylluppet,5,0
+The Last King of Scotland,1,11
+The Last King of Scotland,2,0
+The Last King of Scotland,3,0
+The Last King of Scotland,4,0
+The Last King of Scotland,5,0
+Zodiac,1,11
+Zodiac,2,0
+Zodiac,3,0
+Zodiac,4,0
+Zodiac,5,0
+Lucky Number Slevin,1,22
+Lucky Number Slevin,2,0
+Lucky Number Slevin,3,0
+Lucky Number Slevin,4,0
+Lucky Number Slevin,5,0
+Joyeux Noël,1,14
+Joyeux Noël,2,0
+Joyeux Noël,3,0
+Joyeux Noël,4,0
+Joyeux Noël,5,0
+Control,1,14
+Control,2,0
+Control,3,0
+Control,4,0
+Control,5,0
+Tangled,1,18
+Tangled,2,0
+Tangled,3,0
+Tangled,4,0
+Tangled,5,0
+Zwartboek,1,6
+Zwartboek,2,0
+Zwartboek,3,0
+Zwartboek,4,0
+Zwartboek,5,0
+Brokeback Mountain,1,14
+Brokeback Mountain,2,0
+Brokeback Mountain,3,0
+Brokeback Mountain,4,0
+Brokeback Mountain,5,0
+3:10 to Yuma,1,5
+3:10 to Yuma,2,0
+3:10 to Yuma,3,0
+3:10 to Yuma,4,0
+3:10 to Yuma,5,0
+Crash,1,13
+Crash,2,0
+Crash,3,0
+Crash,4,0
+Crash,5,0
+Kung fu,1,17
+Kung fu,2,0
+Kung fu,3,0
+Kung fu,4,0
+Kung fu,5,0
+The Bourne Supremacy,1,11
+The Bourne Supremacy,2,0
+The Bourne Supremacy,3,0
+The Bourne Supremacy,4,0
+The Bourne Supremacy,5,0
+The Machinist,1,16
+The Machinist,2,0
+The Machinist,3,0
+The Machinist,4,0
+The Machinist,5,0
+Ray,1,19
+Ray,2,0
+Ray,3,0
+Ray,4,0
+Ray,5,0
+Lost in Translation,1,10
+Lost in Translation,2,0
+Lost in Translation,3,0
+Lost in Translation,4,0
+Lost in Translation,5,0
+Harry Potter and the Goblet of Fire,1,14
+Harry Potter and the Goblet of Fire,2,0
+Harry Potter and the Goblet of Fire,3,0
+Harry Potter and the Goblet of Fire,4,0
+Harry Potter and the Goblet of Fire,5,0
+Man on Fire,1,14
+Man on Fire,2,0
+Man on Fire,3,0
+Man on Fire,4,0
+Man on Fire,5,0
+Coraline,1,10
+Coraline,2,0
+Coraline,3,0
+Coraline,4,0
+Coraline,5,0
+The Last Samurai,1,11
+The Last Samurai,2,0
+The Last Samurai,3,0
+The Last Samurai,4,0
+The Last Samurai,5,0
+The Magdalene Sisters,1,9
+The Magdalene Sisters,2,0
+The Magdalene Sisters,3,0
+The Magdalene Sisters,4,0
+The Magdalene Sisters,5,0
+Good Bye Lenin!,1,17
+Good Bye Lenin!,2,0
+Good Bye Lenin!,3,0
+Good Bye Lenin!,4,0
+Good Bye Lenin!,5,0
+In America,1,16
+In America,2,0
+In America,3,0
+In America,4,0
+In America,5,0
+I Am Sam,1,9
+I Am Sam,2,0
+I Am Sam,3,0
+I Am Sam,4,0
+I Am Sam,5,0
+Adaptation.,1,15
+Adaptation.,2,0
+Adaptation.,3,0
+Adaptation.,4,0
+Adaptation.,5,0
+Black Hawk Down,1,13
+Black Hawk Down,2,0
+Black Hawk Down,3,0
+Black Hawk Down,4,0
+Black Hawk Down,5,0
+Road to Perdition,1,16
+Road to Perdition,2,0
+Road to Perdition,3,0
+Road to Perdition,4,0
+Road to Perdition,5,0
+Das Experiment,1,13
+Das Experiment,2,0
+Das Experiment,3,0
+Das Experiment,4,0
+Das Experiment,5,0
+Billy Elliot,1,8
+Billy Elliot,2,0
+Billy Elliot,3,0
+Billy Elliot,4,0
+Billy Elliot,5,0
+Hedwig and the Angry Inch,1,15
+Hedwig and the Angry Inch,2,0
+Hedwig and the Angry Inch,3,0
+Hedwig and the Angry Inch,4,0
+Hedwig and the Angry Inch,5,0
+Ocean's Eleven,1,17
+Ocean's Eleven,2,0
+Ocean's Eleven,3,0
+Ocean's Eleven,4,0
+Ocean's Eleven,5,0
+Vampire Hunter D: Bloodlust,1,21
+Vampire Hunter D: Bloodlust,2,0
+Vampire Hunter D: Bloodlust,3,0
+Vampire Hunter D: Bloodlust,4,0
+Vampire Hunter D: Bloodlust,5,0
+O Brother, Where Art Thou,1,13
+O Brother, Where Art Thou,2,0
+O Brother, Where Art Thou,3,0
+O Brother, Where Art Thou,4,0
+O Brother, Where Art Thou,5,0
+Interstate 60: Episodes of the Road,1,16
+Interstate 60: Episodes of the Road,2,0
+Interstate 60: Episodes of the Road,3,0
+Interstate 60: Episodes of the Road,4,0
+Interstate 60: Episodes of the Road,5,0
+South Park: Bigger, Longer & Uncu,1,15
+South Park: Bigger, Longer & Uncu,2,0
+South Park: Bigger, Longer & Uncu,3,0
+South Park: Bigger, Longer & Uncu,4,0
+South Park: Bigger, Longer & Uncu,5,0
+Office Space,1,10
+Office Space,2,0
+Office Space,3,0
+Office Space,4,0
+Office Space,5,0
+Happiness,1,13
+Happiness,2,0
+Happiness,3,0
+Happiness,4,0
+Happiness,5,0
+Training Day,1,13
+Training Day,2,0
+Training Day,3,0
+Training Day,4,0
+Training Day,5,0
+Rushmore,1,16
+Rushmore,2,0
+Rushmore,3,0
+Rushmore,4,0
+Rushmore,5,0
+Abre los ojos,1,11
+Abre los ojos,2,0
+Abre los ojos,3,0
+Abre los ojos,4,0
+Abre los ojos,5,0
+Being John Malkovich,1,11
+Being John Malkovich,2,0
+Being John Malkovich,3,0
+Being John Malkovich,4,0
+Being John Malkovich,5,0
+As Good as It Gets,1,11
+As Good as It Gets,2,0
+As Good as It Gets,3,0
+As Good as It Gets,4,0
+As Good as It Gets,5,0
+The Fifth Element,1,16
+The Fifth Element,2,0
+The Fifth Element,3,0
+The Fifth Element,4,0
+The Fifth Element,5,0
+Le dîner de cons,1,20
+Le dîner de cons,2,0
+Le dîner de cons,3,0
+Le dîner de cons,4,0
+Le dîner de cons,5,0
+Donnie Brasco,1,18
+Donnie Brasco,2,0
+Donnie Brasco,3,0
+Donnie Brasco,4,0
+Donnie Brasco,5,0
+Shine,1,13
+Shine,2,0
+Shine,3,0
+Shine,4,0
+Shine,5,0
+Primal Fear,1,13
+Primal Fear,2,0
+Primal Fear,3,0
+Primal Fear,4,0
+Primal Fear,5,0
+Hamlet,1,10
+Hamlet,2,0
+Hamlet,3,0
+Hamlet,4,0
+Hamlet,5,0
+A Little Princess,1,10
+A Little Princess,2,0
+A Little Princess,3,0
+A Little Princess,4,0
+A Little Princess,5,0
+Do lok tin si,1,15
+Do lok tin si,2,0
+Do lok tin si,3,0
+Do lok tin si,4,0
+Do lok tin si,5,0
+Il postino,1,9
+Il postino,2,0
+Il postino,3,0
+Il postino,4,0
+Il postino,5,0
+Clerks,1,16
+Clerks,2,0
+Clerks,3,0
+Clerks,4,0
+Clerks,5,0
+Short Cuts,1,12
+Short Cuts,2,0
+Short Cuts,3,0
+Short Cuts,4,0
+Short Cuts,5,0
+Philadelphia,1,17
+Philadelphia,2,0
+Philadelphia,3,0
+Philadelphia,4,0
+Philadelphia,5,0
+The Muppet Christmas Carol,1,19
+The Muppet Christmas Carol,2,0
+The Muppet Christmas Carol,3,0
+The Muppet Christmas Carol,4,0
+The Muppet Christmas Carol,5,0
+Malcolm X,1,10
+Malcolm X,2,0
+Malcolm X,3,0
+Malcolm X,4,0
+Malcolm X,5,0
+The Last of the Mohicans,1,9
+The Last of the Mohicans,2,0
+The Last of the Mohicans,3,0
+The Last of the Mohicans,4,0
+The Last of the Mohicans,5,0
+Kurenai no buta,1,11
+Kurenai no buta,2,0
+Kurenai no buta,3,0
+Kurenai no buta,4,0
+Kurenai no buta,5,0
+Glengarry Glen Ross,1,14
+Glengarry Glen Ross,2,0
+Glengarry Glen Ross,3,0
+Glengarry Glen Ross,4,0
+Glengarry Glen Ross,5,0
+A Few Good Men,1,9
+A Few Good Men,2,0
+A Few Good Men,3,0
+A Few Good Men,4,0
+A Few Good Men,5,0
+Fried Green Tomatoes,1,12
+Fried Green Tomatoes,2,0
+Fried Green Tomatoes,3,0
+Fried Green Tomatoes,4,0
+Fried Green Tomatoes,5,0
+Barton Fink,1,14
+Barton Fink,2,0
+Barton Fink,3,0
+Barton Fink,4,0
+Barton Fink,5,0
+Miller's Crossing,1,18
+Miller's Crossing,2,0
+Miller's Crossing,3,0
+Miller's Crossing,4,0
+Miller's Crossing,5,0
+Who Framed Roger Rabbit,1,14
+Who Framed Roger Rabbit,2,0
+Who Framed Roger Rabbit,3,0
+Who Framed Roger Rabbit,4,0
+Who Framed Roger Rabbit,5,0
+Spoorloos,1,14
+Spoorloos,2,0
+Spoorloos,3,0
+Spoorloos,4,0
+Spoorloos,5,0
+Withnail & I,1,8
+Withnail & I,2,0
+Withnail & I,3,0
+Withnail & I,4,0
+Withnail & I,5,0
+The Last Emperor,1,8
+The Last Emperor,2,0
+The Last Emperor,3,0
+The Last Emperor,4,0
+The Last Emperor,5,0
+Empire of the Sun,1,14
+Empire of the Sun,2,0
+Empire of the Sun,3,0
+Empire of the Sun,4,0
+Empire of the Sun,5,0
+Der Name der Rose,1,10
+Der Name der Rose,2,0
+Der Name der Rose,3,0
+Der Name der Rose,4,0
+Der Name der Rose,5,0
+Blue Velvet,1,13
+Blue Velvet,2,0
+Blue Velvet,3,0
+Blue Velvet,4,0
+Blue Velvet,5,0
+The Purple Rose of Cairo,1,20
+The Purple Rose of Cairo,2,0
+The Purple Rose of Cairo,3,0
+The Purple Rose of Cairo,4,0
+The Purple Rose of Cairo,5,0
+After Hours,1,11
+After Hours,2,0
+After Hours,3,0
+After Hours,4,0
+After Hours,5,0
+Zelig,1,12
+Zelig,2,0
+Zelig,3,0
+Zelig,4,0
+Zelig,5,0
+The Verdict,1,16
+The Verdict,2,0
+The Verdict,3,0
+The Verdict,4,0
+The Verdict,5,0
+Star Trek II: The Wrath of Khan,1,14
+Star Trek II: The Wrath of Khan,2,0
+Star Trek II: The Wrath of Khan,3,0
+Star Trek II: The Wrath of Khan,4,0
+Star Trek II: The Wrath of Khan,5,0
+First Blood,1,14
+First Blood,2,0
+First Blood,3,0
+First Blood,4,0
+First Blood,5,0
+Ordinary People,1,12
+Ordinary People,2,0
+Ordinary People,3,0
+Ordinary People,4,0
+Ordinary People,5,0
+Airplane!,1,10
+Airplane!,2,0
+Airplane!,3,0
+Airplane!,4,0
+Airplane!,5,0
+Rupan sansei: Kariosutoro no shiro,1,18
+Rupan sansei: Kariosutoro no shiro,2,0
+Rupan sansei: Kariosutoro no shiro,3,0
+Rupan sansei: Kariosutoro no shiro,4,0
+Rupan sansei: Kariosutoro no shiro,5,0
+Halloween,1,14
+Halloween,2,0
+Halloween,3,0
+Halloween,4,0
+Halloween,5,0
+Le locataire,1,11
+Le locataire,2,0
+Le locataire,3,0
+Le locataire,4,0
+Le locataire,5,0
+Love and Death,1,9
+Love and Death,2,0
+Love and Death,3,0
+Love and Death,4,0
+Love and Death,5,0
+The Taking of Pelham One Two Three,1,11
+The Taking of Pelham One Two Three,2,0
+The Taking of Pelham One Two Three,3,0
+The Taking of Pelham One Two Three,4,0
+The Taking of Pelham One Two Three,5,0
+Blazing Saddles,1,14
+Blazing Saddles,2,0
+Blazing Saddles,3,0
+Blazing Saddles,4,0
+Blazing Saddles,5,0
+Serpico,1,15
+Serpico,2,0
+Serpico,3,0
+Serpico,4,0
+Serpico,5,0
+Enter the Dragon,1,14
+Enter the Dragon,2,0
+Enter the Dragon,3,0
+Enter the Dragon,4,0
+Enter the Dragon,5,0
+Deliverance,1,8
+Deliverance,2,0
+Deliverance,3,0
+Deliverance,4,0
+Deliverance,5,0
+The French Connection,1,14
+The French Connection,2,0
+The French Connection,3,0
+The French Connection,4,0
+The French Connection,5,0
+Dirty Harry,1,9
+Dirty Harry,2,0
+Dirty Harry,3,0
+Dirty Harry,4,0
+Dirty Harry,5,0
+Where Eagles Dare,1,13
+Where Eagles Dare,2,0
+Where Eagles Dare,3,0
+Where Eagles Dare,4,0
+Where Eagles Dare,5,0
+The Odd Couple,1,9
+The Odd Couple,2,0
+The Odd Couple,3,0
+The Odd Couple,4,0
+The Odd Couple,5,0
+The Dirty Dozen,1,17
+The Dirty Dozen,2,0
+The Dirty Dozen,3,0
+The Dirty Dozen,4,0
+The Dirty Dozen,5,0
+Belle de jour,1,14
+Belle de jour,2,0
+Belle de jour,3,0
+Belle de jour,4,0
+Belle de jour,5,0
+A Man for All Seasons,1,8
+A Man for All Seasons,2,0
+A Man for All Seasons,3,0
+A Man for All Seasons,4,0
+A Man for All Seasons,5,0
+Repulsion,1,20
+Repulsion,2,0
+Repulsion,3,0
+Repulsion,4,0
+Repulsion,5,0
+Zulu,1,8
+Zulu,2,0
+Zulu,3,0
+Zulu,4,0
+Zulu,5,0
+Goldfinger,1,15
+Goldfinger,2,0
+Goldfinger,3,0
+Goldfinger,4,0
+Goldfinger,5,0
+The Birds,1,14
+The Birds,2,0
+The Birds,3,0
+The Birds,4,0
+The Birds,5,0
+Cape Fear,1,15
+Cape Fear,2,0
+Cape Fear,3,0
+Cape Fear,4,0
+Cape Fear,5,0
+Peeping Tom,1,15
+Peeping Tom,2,0
+Peeping Tom,3,0
+Peeping Tom,4,0
+Peeping Tom,5,0
+The Magnificent Seven,1,9
+The Magnificent Seven,2,0
+The Magnificent Seven,3,0
+The Magnificent Seven,4,0
+The Magnificent Seven,5,0
+Les yeux sans visage,1,15
+Les yeux sans visage,2,0
+Les yeux sans visage,3,0
+Les yeux sans visage,4,0
+Les yeux sans visage,5,0
+Invasion of the Body Snatchers,1,12
+Invasion of the Body Snatchers,2,0
+Invasion of the Body Snatchers,3,0
+Invasion of the Body Snatchers,4,0
+Invasion of the Body Snatchers,5,0
+Rebel Without a Cause,1,11
+Rebel Without a Cause,2,0
+Rebel Without a Cause,3,0
+Rebel Without a Cause,4,0
+Rebel Without a Cause,5,0
+The Ladykillers,1,9
+The Ladykillers,2,0
+The Ladykillers,3,0
+The Ladykillers,4,0
+The Ladykillers,5,0
+Sabrina,1,10
+Sabrina,2,0
+Sabrina,3,0
+Sabrina,4,0
+Sabrina,5,0
+The Quiet Man,1,14
+The Quiet Man,2,0
+The Quiet Man,3,0
+The Quiet Man,4,0
+The Quiet Man,5,0
+The Day the Earth Stood Still,1,9
+The Day the Earth Stood Still,2,0
+The Day the Earth Stood Still,3,0
+The Day the Earth Stood Still,4,0
+The Day the Earth Stood Still,5,0
+The African Queen,1,12
+The African Queen,2,0
+The African Queen,3,0
+The African Queen,4,0
+The African Queen,5,0
+Gilda,1,17
+Gilda,2,0
+Gilda,3,0
+Gilda,4,0
+Gilda,5,0
+Fantasia,1,9
+Fantasia,2,0
+Fantasia,3,0
+Fantasia,4,0
+Fantasia,5,0
+The Invisible Man,1,16
+The Invisible Man,2,0
+The Invisible Man,3,0
+The Invisible Man,4,0
+The Invisible Man,5,0
+Dark Waters,1,17
+Dark Waters,2,0
+Dark Waters,3,0
+Dark Waters,4,0
+Dark Waters,5,0
+Searching,1,14
+Searching,2,0
+Searching,3,0
+Searching,4,0
+Searching,5,0
+Once Upon a Time... in Hollywood,1,19
+Once Upon a Time... in Hollywood,2,0
+Once Upon a Time... in Hollywood,3,0
+Once Upon a Time... in Hollywood,4,0
+Once Upon a Time... in Hollywood,5,0
+Nelyubov,1,11
+Nelyubov,2,0
+Nelyubov,3,0
+Nelyubov,4,0
+Nelyubov,5,0
+The Florida Project,1,9
+The Florida Project,2,0
+The Florida Project,3,0
+The Florida Project,4,0
+The Florida Project,5,0
+Just Mercy,1,15
+Just Mercy,2,0
+Just Mercy,3,0
+Just Mercy,4,0
+Just Mercy,5,0
+Gifted,1,9
+Gifted,2,0
+Gifted,3,0
+Gifted,4,0
+Gifted,5,0
+The Peanut Butter Falcon,1,13
+The Peanut Butter Falcon,2,0
+The Peanut Butter Falcon,3,0
+The Peanut Butter Falcon,4,0
+The Peanut Butter Falcon,5,0
+Victoria,1,17
+Victoria,2,0
+Victoria,3,0
+Victoria,4,0
+Victoria,5,0
+Mustang,1,16
+Mustang,2,0
+Mustang,3,0
+Mustang,4,0
+Mustang,5,0
+Guardians of the Galaxy Vol. 2,1,13
+Guardians of the Galaxy Vol. 2,2,0
+Guardians of the Galaxy Vol. 2,3,0
+Guardians of the Galaxy Vol. 2,4,0
+Guardians of the Galaxy Vol. 2,5,0
+Baby Driver,1,16
+Baby Driver,2,0
+Baby Driver,3,0
+Baby Driver,4,0
+Baby Driver,5,0
+Only the Brave,1,14
+Only the Brave,2,0
+Only the Brave,3,0
+Only the Brave,4,0
+Only the Brave,5,0
+Bridge of Spies,1,13
+Bridge of Spies,2,0
+Bridge of Spies,3,0
+Bridge of Spies,4,0
+Bridge of Spies,5,0
+Incredibles 2,1,17
+Incredibles 2,2,0
+Incredibles 2,3,0
+Incredibles 2,4,0
+Incredibles 2,5,0
+Moana,1,11
+Moana,2,0
+Moana,3,0
+Moana,4,0
+Moana,5,0
+Sicario,1,14
+Sicario,2,0
+Sicario,3,0
+Sicario,4,0
+Sicario,5,0
+Creed,1,12
+Creed,2,0
+Creed,3,0
+Creed,4,0
+Creed,5,0
+Leviafan,1,13
+Leviafan,2,0
+Leviafan,3,0
+Leviafan,4,0
+Leviafan,5,0
+Hell or High Water,1,14
+Hell or High Water,2,0
+Hell or High Water,3,0
+Hell or High Water,4,0
+Hell or High Water,5,0
+Philomena,1,14
+Philomena,2,0
+Philomena,3,0
+Philomena,4,0
+Philomena,5,0
+Dawn of the Planet of the Apes,1,15
+Dawn of the Planet of the Apes,2,0
+Dawn of the Planet of the Apes,3,0
+Dawn of the Planet of the Apes,4,0
+Dawn of the Planet of the Apes,5,0
+El cuerpo,1,14
+El cuerpo,2,0
+El cuerpo,3,0
+El cuerpo,4,0
+El cuerpo,5,0
+Serbuan maut,1,10
+Serbuan maut,2,0
+Serbuan maut,3,0
+Serbuan maut,4,0
+Serbuan maut,5,0
+End of Watch,1,9
+End of Watch,2,0
+End of Watch,3,0
+End of Watch,4,0
+End of Watch,5,0
+Kari-gurashi no Arietti,1,20
+Kari-gurashi no Arietti,2,0
+Kari-gurashi no Arietti,3,0
+Kari-gurashi no Arietti,4,0
+Kari-gurashi no Arietti,5,0
+A Star Is Born,1,14
+A Star Is Born,2,0
+A Star Is Born,3,0
+A Star Is Born,4,0
+A Star Is Born,5,0
+True Grit,1,19
+True Grit,2,0
+True Grit,3,0
+True Grit,4,0
+True Grit,5,0
+Hævnen,1,13
+Hævnen,2,0
+Hævnen,3,0
+Hævnen,4,0
+Hævnen,5,0
+Despicable Me,1,12
+Despicable Me,2,0
+Despicable Me,3,0
+Despicable Me,4,0
+Despicable Me,5,0
+50/50,1,11
+50/50,2,0
+50/50,3,0
+50/50,4,0
+50/50,5,0
+Kick-Butt,1,16
+Kick-Butt,2,0
+Kick-Butt,3,0
+Kick-Butt,4,0
+Kick-Butt,5,0
+Celda 211,1,18
+Celda 211,2,0
+Celda 211,3,0
+Celda 211,4,0
+Celda 211,5,0
+Moneyball,1,16
+Moneyball,2,0
+Moneyball,3,0
+Moneyball,4,0
+Moneyball,5,0
+La piel que habito,1,14
+La piel que habito,2,0
+La piel que habito,3,0
+La piel que habito,4,0
+La piel que habito,5,0
+Zombieland,1,8
+Zombieland,2,0
+Zombieland,3,0
+Zombieland,4,0
+Zombieland,5,0
+Die Welle,1,14
+Die Welle,2,0
+Die Welle,3,0
+Die Welle,4,0
+Die Welle,5,0
+Sherlock Holmes,1,14
+Sherlock Holmes,2,0
+Sherlock Holmes,3,0
+Sherlock Holmes,4,0
+Sherlock Holmes,5,0
+The Blind Side,1,13
+The Blind Side,2,0
+The Blind Side,3,0
+The Blind Side,4,0
+The Blind Side,5,0
+The Visitor,1,9
+The Visitor,2,0
+The Visitor,3,0
+The Visitor,4,0
+The Visitor,5,0
+Seven Pounds,1,8
+Seven Pounds,2,0
+Seven Pounds,3,0
+Seven Pounds,4,0
+Seven Pounds,5,0
+Eastern Promises,1,14
+Eastern Promises,2,0
+Eastern Promises,3,0
+Eastern Promises,4,0
+Eastern Promises,5,0
+Stardust,1,14
+Stardust,2,0
+Stardust,3,0
+Stardust,4,0
+Stardust,5,0
+The Secret of Kells,1,14
+The Secret of Kells,2,0
+The Secret of Kells,3,0
+The Secret of Kells,4,0
+The Secret of Kells,5,0
+Inside Man,1,16
+Inside Man,2,0
+Inside Man,3,0
+Inside Man,4,0
+Inside Man,5,0
+Gone Baby Gone,1,14
+Gone Baby Gone,2,0
+Gone Baby Gone,3,0
+Gone Baby Gone,4,0
+Gone Baby Gone,5,0
+La Vie En Rose,1,14
+La Vie En Rose,2,0
+La Vie En Rose,3,0
+La Vie En Rose,4,0
+La Vie En Rose,5,0
+Huo Yuan Jia,1,7
+Huo Yuan Jia,2,0
+Huo Yuan Jia,3,0
+Huo Yuan Jia,4,0
+Huo Yuan Jia,5,0
+The Illusionist,1,17
+The Illusionist,2,0
+The Illusionist,3,0
+The Illusionist,4,0
+The Illusionist,5,0
+Dead Man's Shoes,1,16
+Dead Man's Shoes,2,0
+Dead Man's Shoes,3,0
+Dead Man's Shoes,4,0
+Dead Man's Shoes,5,0
+Harry Potter and the Half-Blood Prince,1,12
+Harry Potter and the Half-Blood Prince,2,0
+Harry Potter and the Half-Blood Prince,3,0
+Harry Potter and the Half-Blood Prince,4,0
+Harry Potter and the Half-Blood Prince,5,0
+300,1,11
+300,2,0
+300,3,0
+300,4,0
+300,5,0
+Match Point,1,16
+Match Point,2,0
+Match Point,3,0
+Match Point,4,0
+Match Point,5,0
+Watchmen,1,14
+Watchmen,2,0
+Watchmen,3,0
+Watchmen,4,0
+Watchmen,5,0
+Lord of War,1,13
+Lord of War,2,0
+Lord of War,3,0
+Lord of War,4,0
+Lord of War,5,0
+Saw,1,18
+Saw,2,0
+Saw,3,0
+Saw,4,0
+Saw,5,0
+Synecdoche, New Yor,1,12
+Synecdoche, New Yor,2,0
+Synecdoche, New Yor,3,0
+Synecdoche, New Yor,4,0
+Synecdoche, New Yor,5,0
+Mysterious Skin,1,16
+Mysterious Skin,2,0
+Mysterious Skin,3,0
+Mysterious Skin,4,0
+Mysterious Skin,5,0
+Jeux d'enfants,1,18
+Jeux d'enfants,2,0
+Jeux d'enfants,3,0
+Jeux d'enfants,4,0
+Jeux d'enfants,5,0
+Un long dimanche de fiançailles,1,16
+Un long dimanche de fiançailles,2,0
+Un long dimanche de fiançailles,3,0
+Un long dimanche de fiançailles,4,0
+Un long dimanche de fiançailles,5,0
+The Station Agent,1,13
+The Station Agent,2,0
+The Station Agent,3,0
+The Station Agent,4,0
+The Station Agent,5,0
+21 Grams,1,10
+21 Grams,2,0
+21 Grams,3,0
+21 Grams,4,0
+21 Grams,5,0
+Boksuneun naui geot,1,18
+Boksuneun naui geot,2,0
+Boksuneun naui geot,3,0
+Boksuneun naui geot,4,0
+Boksuneun naui geot,5,0
+Finding Neverland,1,14
+Finding Neverland,2,0
+Finding Neverland,3,0
+Finding Neverland,4,0
+Finding Neverland,5,0
+25th Hour,1,6
+25th Hour,2,0
+25th Hour,3,0
+25th Hour,4,0
+25th Hour,5,0
+The Butterfly Effect,1,15
+The Butterfly Effect,2,0
+The Butterfly Effect,3,0
+The Butterfly Effect,4,0
+The Butterfly Effect,5,0
+28 Days Later...,1,5
+28 Days Later...,2,0
+28 Days Later...,3,0
+28 Days Later...,4,0
+28 Days Later...,5,0
+Batoru rowaiaru,1,14
+Batoru rowaiaru,2,0
+Batoru rowaiaru,3,0
+Batoru rowaiaru,4,0
+Batoru rowaiaru,5,0
+The Royal Tenenbaums,1,10
+The Royal Tenenbaums,2,0
+The Royal Tenenbaums,3,0
+The Royal Tenenbaums,4,0
+The Royal Tenenbaums,5,0
+Y tu mamá también,1,12
+Y tu mamá también,2,0
+Y tu mamá también,3,0
+Y tu mamá también,4,0
+Y tu mamá también,5,0
+Harry Potter and the Sorcerer's Stone,1,14
+Harry Potter and the Sorcerer's Stone,2,0
+Harry Potter and the Sorcerer's Stone,3,0
+Harry Potter and the Sorcerer's Stone,4,0
+Harry Potter and the Sorcerer's Stone,5,0
+The Others,1,11
+The Others,2,0
+The Others,3,0
+The Others,4,0
+The Others,5,0
+Blow,1,11
+Blow,2,0
+Blow,3,0
+Blow,4,0
+Blow,5,0
+Enemy at the Gates,1,11
+Enemy at the Gates,2,0
+Enemy at the Gates,3,0
+Enemy at the Gates,4,0
+Enemy at the Gates,5,0
+Minority Report,1,18
+Minority Report,2,0
+Minority Report,3,0
+Minority Report,4,0
+Minority Report,5,0
+The Hurricane,1,10
+The Hurricane,2,0
+The Hurricane,3,0
+The Hurricane,4,0
+The Hurricane,5,0
+American Psycho,1,21
+American Psycho,2,0
+American Psycho,3,0
+American Psycho,4,0
+American Psycho,5,0
+Lola rennt,1,12
+Lola rennt,2,0
+Lola rennt,3,0
+Lola rennt,4,0
+Lola rennt,5,0
+The Thin Red Line,1,14
+The Thin Red Line,2,0
+The Thin Red Line,3,0
+The Thin Red Line,4,0
+The Thin Red Line,5,0
+Mulan,1,14
+Mulan,2,0
+Mulan,3,0
+Mulan,4,0
+Mulan,5,0
+Fear and Loathing in Las Vegas,1,12
+Fear and Loathing in Las Vegas,2,0
+Fear and Loathing in Las Vegas,3,0
+Fear and Loathing in Las Vegas,4,0
+Fear and Loathing in Las Vegas,5,0
+Funny Games,1,17
+Funny Games,2,0
+Funny Games,3,0
+Funny Games,4,0
+Funny Games,5,0
+Dark City,1,13
+Dark City,2,0
+Dark City,3,0
+Dark City,4,0
+Dark City,5,0
+Sleepers,1,20
+Sleepers,2,0
+Sleepers,3,0
+Sleepers,4,0
+Sleepers,5,0
+Lost Highway,1,8
+Lost Highway,2,0
+Lost Highway,3,0
+Lost Highway,4,0
+Lost Highway,5,0
+Sense and Sensibility,1,12
+Sense and Sensibility,2,0
+Sense and Sensibility,3,0
+Sense and Sensibility,4,0
+Sense and Sensibility,5,0
+Die Hard: With a Vengeance,1,16
+Die Hard: With a Vengeance,2,0
+Die Hard: With a Vengeance,3,0
+Die Hard: With a Vengeance,4,0
+Die Hard: With a Vengeance,5,0
+Dead Man,1,6
+Dead Man,2,0
+Dead Man,3,0
+Dead Man,4,0
+Dead Man,5,0
+The Bridges of Madison County,1,15
+The Bridges of Madison County,2,0
+The Bridges of Madison County,3,0
+The Bridges of Madison County,4,0
+The Bridges of Madison County,5,0
+Apollo 13,1,10
+Apollo 13,2,0
+Apollo 13,3,0
+Apollo 13,4,0
+Apollo 13,5,0
+Trois couleurs: Blanc,1,14
+Trois couleurs: Blanc,2,0
+Trois couleurs: Blanc,3,0
+Trois couleurs: Blanc,4,0
+Trois couleurs: Blanc,5,0
+Falling Down,1,12
+Falling Down,2,0
+Falling Down,3,0
+Falling Down,4,0
+Falling Down,5,0
+Dazed and Confused,1,5
+Dazed and Confused,2,0
+Dazed and Confused,3,0
+Dazed and Confused,4,0
+Dazed and Confused,5,0
+My Cousin Vinny,1,12
+My Cousin Vinny,2,0
+My Cousin Vinny,3,0
+My Cousin Vinny,4,0
+My Cousin Vinny,5,0
+Omohide poro poro,1,16
+Omohide poro poro,2,0
+Omohide poro poro,3,0
+Omohide poro poro,4,0
+Omohide poro poro,5,0
+Delicatessen,1,8
+Delicatessen,2,0
+Delicatessen,3,0
+Delicatessen,4,0
+Delicatessen,5,0
+Home Alone,1,19
+Home Alone,2,0
+Home Alone,3,0
+Home Alone,4,0
+Home Alone,5,0
+The Godfather: Part III,1,17
+The Godfather: Part III,2,0
+The Godfather: Part III,3,0
+The Godfather: Part III,4,0
+The Godfather: Part III,5,0
+When Harry Met Sally...,1,8
+When Harry Met Sally...,2,0
+When Harry Met Sally...,3,0
+When Harry Met Sally...,4,0
+When Harry Met Sally...,5,0
+The Little Mermaid,1,18
+The Little Mermaid,2,0
+The Little Mermaid,3,0
+The Little Mermaid,4,0
+The Little Mermaid,5,0
+The Naked Gun: From the Files of Police Squad!,1,11
+The Naked Gun: From the Files of Police Squad!,2,0
+The Naked Gun: From the Files of Police Squad!,3,0
+The Naked Gun: From the Files of Police Squad!,4,0
+The Naked Gun: From the Files of Police Squad!,5,0
+Planes, Trains & Automobile,1,15
+Planes, Trains & Automobile,2,0
+Planes, Trains & Automobile,3,0
+Planes, Trains & Automobile,4,0
+Planes, Trains & Automobile,5,0
+Lethal Weapon,1,12
+Lethal Weapon,2,0
+Lethal Weapon,3,0
+Lethal Weapon,4,0
+Lethal Weapon,5,0
+Blood Simple,1,11
+Blood Simple,2,0
+Blood Simple,3,0
+Blood Simple,4,0
+Blood Simple,5,0
+On Golden Pond,1,9
+On Golden Pond,2,0
+On Golden Pond,3,0
+On Golden Pond,4,0
+On Golden Pond,5,0
+Mad Max 2,1,20
+Mad Max 2,2,0
+Mad Max 2,3,0
+Mad Max 2,4,0
+Mad Max 2,5,0
+The Warriors,1,11
+The Warriors,2,0
+The Warriors,3,0
+The Warriors,4,0
+The Warriors,5,0
+The Muppet Movie,1,9
+The Muppet Movie,2,0
+The Muppet Movie,3,0
+The Muppet Movie,4,0
+The Muppet Movie,5,0
+Escape from Alcatraz,1,13
+Escape from Alcatraz,2,0
+Escape from Alcatraz,3,0
+Escape from Alcatraz,4,0
+Escape from Alcatraz,5,0
+Watership Down,1,8
+Watership Down,2,0
+Watership Down,3,0
+Watership Down,4,0
+Watership Down,5,0
+Midnight Express,1,15
+Midnight Express,2,0
+Midnight Express,3,0
+Midnight Express,4,0
+Midnight Express,5,0
+Close Encounters of the Third Kind,1,15
+Close Encounters of the Third Kind,2,0
+Close Encounters of the Third Kind,3,0
+Close Encounters of the Third Kind,4,0
+Close Encounters of the Third Kind,5,0
+The Long Goodbye,1,12
+The Long Goodbye,2,0
+The Long Goodbye,3,0
+The Long Goodbye,4,0
+The Long Goodbye,5,0
+Giù la testa,1,18
+Giù la testa,2,0
+Giù la testa,3,0
+Giù la testa,4,0
+Giù la testa,5,0
+Kelly's Heroes,1,12
+Kelly's Heroes,2,0
+Kelly's Heroes,3,0
+Kelly's Heroes,4,0
+Kelly's Heroes,5,0
+The Jungle Book,1,18
+The Jungle Book,2,0
+The Jungle Book,3,0
+The Jungle Book,4,0
+The Jungle Book,5,0
+Blowup,1,11
+Blowup,2,0
+Blowup,3,0
+Blowup,4,0
+Blowup,5,0
+A Hard Day's Night,1,11
+A Hard Day's Night,2,0
+A Hard Day's Night,3,0
+A Hard Day's Night,4,0
+A Hard Day's Night,5,0
+Breakfast at Tiffany's,1,15
+Breakfast at Tiffany's,2,0
+Breakfast at Tiffany's,3,0
+Breakfast at Tiffany's,4,0
+Breakfast at Tiffany's,5,0
+Giant,1,9
+Giant,2,0
+Giant,3,0
+Giant,4,0
+Giant,5,0
+From Here to Eternity,1,10
+From Here to Eternity,2,0
+From Here to Eternity,3,0
+From Here to Eternity,4,0
+From Here to Eternity,5,0
+Lifeboat,1,12
+Lifeboat,2,0
+Lifeboat,3,0
+Lifeboat,4,0
+Lifeboat,5,0
+The 39 Steps,1,16
+The 39 Steps,2,0
+The 39 Steps,3,0
+The 39 Steps,4,0
+The 39 Steps,5,0
